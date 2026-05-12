@@ -128,9 +128,10 @@ Estou aberto a oportunidades como:
   <a href="https://github.com/Zirphaz">
     <img src="https://img.shields.io/badge/GitHub-Zirphaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://zirphaz.github.io/Zirphaz/">
+    <img src="https://img.shields.io/badge/Portfolio-Online-2dd4bf?style=for-the-badge&logo=vercel&logoColor=111827" alt="Portfolio online">
+  </a>
 </p>
-
-Portfolio pode ser adicionado aqui quando estiver pronto para contato profissional.
 
 ---
 
