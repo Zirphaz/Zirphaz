@@ -119,6 +119,9 @@ Estou aberto a oportunidades como:
 ## Contato
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/samuel-alexander-ferreira-3709b72b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:samuelferreira.trabalho@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-samuelferreira.trabalho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail profissional">
   </a>
@@ -127,7 +130,7 @@ Estou aberto a oportunidades como:
   </a>
 </p>
 
-LinkedIn e portfolio podem ser adicionados aqui assim que estiverem prontos para contato profissional.
+Portfolio pode ser adicionado aqui quando estiver pronto para contato profissional.
 
 ---
 
