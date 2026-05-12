@@ -1,7 +1,7 @@
-<h1 align="center">Samuel Ferreira | Full Stack Developer | Python & Automation</h1>
+<h1 align="center">Samuel Ferreira | Full Stack Developer | Python, Java & JavaScript</h1>
 
 <p align="center">
-  Web development, database automation, cybersecurity and digital products focused on practical business solutions.
+  Web development, JavaScript interfaces, Java/Python systems, database automation and digital products focused on practical business solutions.
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=Zirphaz&style=for-the-badge&color=0e75b6" alt="Profile views">
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities">
-  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Python%20%7C%20Automation-0e75b6?style=for-the-badge" alt="Professional focus">
+  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20JavaScript%20%7C%20Java%20%7C%20Python-0e75b6?style=for-the-badge" alt="Professional focus">
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 ## English
 
-I am a developer with practical experience creating websites for small businesses, automation systems with databases and digital projects. I have strong knowledge of Python, along with experience in cybersecurity, SQL, Lua, C++ and Unreal Engine. I also study Advertising, which strengthens my understanding of communication, user experience, branding and product presentation.
+I am a developer with practical experience creating websites for small businesses, automation systems with databases and digital projects. I have strong knowledge of JavaScript, Java and Python, along with experience in cybersecurity, SQL, Lua, C++ and Unreal Engine. I also study Advertising, which strengthens my understanding of communication, user experience, branding and product presentation.
 
-I am looking for opportunities in technology where I can contribute with practical deliveries, learn with real teams and keep growing technically. My main focus is web development and automation: responsive interfaces, internal systems, database integration, APIs and solutions that help real businesses work better.
+I am looking for opportunities in technology where I can contribute with practical deliveries, learn with real teams and keep growing technically. My main focus is web development and automation: responsive interfaces with JavaScript, internal systems with Java/Python, database integration, APIs and solutions that help real businesses work better.
 
 ## What I Can Deliver
 
@@ -33,6 +33,7 @@ I am looking for opportunities in technology where I can contribute with practic
 - Institutional websites for small businesses.
 - Internal automation systems with databases for businesses such as markets and apartments.
 - Front-end components with HTML, CSS, JavaScript and React.
+- Java systems, object-oriented programming and application logic.
 - API consumption and front-end/back-end integration.
 - Python automation, internal tools, data handling and interfaces.
 - SQL and JSON for data structure and system integration.
@@ -41,7 +42,7 @@ I am looking for opportunities in technology where I can contribute with practic
 ## Main Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,lua,unreal,git,github,vscode" alt="Main technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,python,cpp,lua,unreal,git,github,vscode" alt="Main technologies">
 </p>
 
 ## Technologies And Tools
@@ -50,6 +51,7 @@ I am looking for opportunities in technology where I can contribute with practic
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -68,6 +70,7 @@ I am looking for opportunities in technology where I can contribute with practic
 | --- | --- |
 | Website Development | I build websites for small businesses focused on presentation, contact and digital presence. |
 | Full Stack | I connect interface, logic, APIs, server, database and automation. |
+| Java / JavaScript | I use Java for object-oriented logic and JavaScript for web interfaces and interactive behavior. |
 | Python | I use Python for automation, internal tools, interfaces and data handling. |
 | Data | I work with SQL and JSON to structure information and connect systems. |
 | Cybersecurity | I apply practical knowledge to think about risks, networks, protection and good practices. |
@@ -132,13 +135,15 @@ I am looking for opportunities in technology where I can contribute with practic
 
 ## Português
 
-Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em Python, além de experiência com cyber segurança, SQL, Lua, C++ e Unreal Engine 5, incluindo criação de sistema de movimento para trens e navios. Também curso Publicidade, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
+Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em JavaScript, Java e Python, além de experiência com cyber segurança, SQL, Lua, C++ e Unreal Engine 5, incluindo criação de sistema de movimento para trens e navios. Também curso Publicidade, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
 
-Busco oportunidades em tecnologia para contribuir com entregas práticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal está em desenvolvimento web e automação: interfaces responsivas, sistemas internos, integração com banco de dados, APIs e soluções que ajudam negócios reais a funcionar melhor.
+Busco oportunidades em tecnologia para contribuir com entregas práticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal está em desenvolvimento web e automação: interfaces responsivas com JavaScript, lógica de aplicação com Java/Python, sistemas internos, integração com banco de dados, APIs e soluções que ajudam negócios reais a funcionar melhor.
 
 **Principais entregas:**
 
 - Sites responsivos e páginas para microempresas.
+- Interfaces e componentes com HTML, CSS, JavaScript e React.
+- Lógica de aplicação e programação orientada a objetos com Java.
 - Sistemas internos e automações com banco de dados.
 - Automações, ferramentas internas e interfaces com Python.
 - Integração com APIs, SQL e JSON.
