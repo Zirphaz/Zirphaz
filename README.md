@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#english">English</a> ·
-  <a href="#portugues">Portugues</a> ·
+  <a href="#português">Português</a> ·
   <a href="https://zirphaz.github.io/Zirphaz/">Portfolio</a> ·
   <a href="mailto:samuelferreira.trabalho@gmail.com">Email</a>
 </p>
@@ -129,27 +129,27 @@ I am looking for opportunities in technology where I can contribute with practic
 
 ---
 
-## Portugues
+## Português
 
-Sou desenvolvedor com experiencia pratica em criacao de sites para microempresas, automacoes com banco de dados e projetos digitais. Tenho forte conhecimento em Python, alem de experiencia com cyber seguranca, SQL, Lua, C++ e Unreal Engine. Tambem curso Publicidade, o que fortalece minha visao sobre comunicacao, experiencia do usuario, marca e apresentacao de produto.
+Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em Python, além de experiência com cyber segurança, SQL, Lua, C++ e Unreal Engine. Também curso Publicidade, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
 
-Busco oportunidades em tecnologia para contribuir com entregas praticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal esta em desenvolvimento web e automacao: interfaces responsivas, sistemas internos, integracao com banco de dados, APIs e solucoes que ajudam negocios reais a funcionar melhor.
+Busco oportunidades em tecnologia para contribuir com entregas práticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal está em desenvolvimento web e automação: interfaces responsivas, sistemas internos, integração com banco de dados, APIs e soluções que ajudam negócios reais a funcionar melhor.
 
 **Principais entregas:**
 
-- Sites responsivos e paginas para microempresas.
-- Sistemas internos e automacoes com banco de dados.
-- Automacoes, ferramentas internas e interfaces com Python.
-- Integracao com APIs, SQL e JSON.
-- Visao de cyber seguranca aplicada a sistemas, dados, redes e boas praticas.
+- Sites responsivos e páginas para microempresas.
+- Sistemas internos e automações com banco de dados.
+- Automações, ferramentas internas e interfaces com Python.
+- Integração com APIs, SQL e JSON.
+- Visão de cyber segurança aplicada a sistemas, dados, redes e boas práticas.
 
 **Aberto a oportunidades como:**
 
-- Desenvolvedor Front-end Junior.
-- Desenvolvedor Full Stack Junior.
-- Estagio em desenvolvimento de software.
-- Oportunidade inicial em cyber seguranca.
-- Projetos freelance para sites, sistemas internos e automacoes.
+- Desenvolvedor Front-end Júnior.
+- Desenvolvedor Full Stack Júnior.
+- Estágio em desenvolvimento de software.
+- Oportunidade inicial em cyber segurança.
+- Projetos freelance para sites, sistemas internos e automações.
 
 <p align="center">
   <strong>Open to opportunities and ready to deliver practical solutions with fast learning and real-world projects.</strong>
