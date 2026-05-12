@@ -280,6 +280,23 @@ h3 {
   font-weight: 900;
 }
 
+.project-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.8rem;
+}
+
+.project-tags small {
+  padding: 0.26rem 0.5rem;
+  border: 1px solid rgba(45, 212, 191, 0.22);
+  border-radius: 0.45rem;
+  background: rgba(45, 212, 191, 0.08);
+  color: #c7f9f1;
+  font-size: 0.76rem;
+  font-weight: 750;
+}
+
 .contact {
   display: flex;
   align-items: center;
