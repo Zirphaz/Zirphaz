@@ -71,7 +71,7 @@ I am looking for opportunities in technology where I can contribute with practic
 | Python | I use Python for automation, internal tools, interfaces and data handling. |
 | Data | I work with SQL and JSON to structure information and connect systems. |
 | Cybersecurity | I apply practical knowledge to think about risks, networks, protection and good practices. |
-| Unreal / Lua / C++ | I have technical knowledge in Unreal Engine, Lua and C++ for logic, systems and interactivity. |
+| Unreal / Lua / C++ | I have technical knowledge in Unreal Engine 5, Lua and C++ for logic, systems, interactivity and movement simulation. |
 | Advertising | I use my background to think about communication, visual presentation and product value. |
 | Automation | I create solutions to reduce repetitive tasks and organize business operations. |
 
@@ -84,6 +84,7 @@ I am looking for opportunities in technology where I can contribute with practic
 | Market automation system | Support control, organization and information flow with a database. | Python, SQL |
 | Apartment automation system | Organize data, records and internal processes. | Python, SQL, JSON |
 | Web dashboard / system | Screens, states, data, components and API consumption. | React, Node.js |
+| UE5 train and ship movement system | Movement logic and simulation systems for vehicles and transport behavior in Unreal Engine 5. | Unreal Engine 5, C++ |
 
 ## GitHub Stats
 
@@ -131,7 +132,7 @@ I am looking for opportunities in technology where I can contribute with practic
 
 ## Português
 
-Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em Python, além de experiência com cyber segurança, SQL, Lua, C++ e Unreal Engine. Também curso Publicidade, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
+Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em Python, além de experiência com cyber segurança, SQL, Lua, C++ e Unreal Engine 5, incluindo criação de sistema de movimento para trens e navios. Também curso Publicidade, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
 
 Busco oportunidades em tecnologia para contribuir com entregas práticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal está em desenvolvimento web e automação: interfaces responsivas, sistemas internos, integração com banco de dados, APIs e soluções que ajudam negócios reais a funcionar melhor.
 
@@ -142,6 +143,7 @@ Busco oportunidades em tecnologia para contribuir com entregas práticas, aprend
 - Automações, ferramentas internas e interfaces com Python.
 - Integração com APIs, SQL e JSON.
 - Visão de cyber segurança aplicada a sistemas, dados, redes e boas práticas.
+- Sistemas de movimento e simulação na Unreal Engine 5.
 
 **Aberto a oportunidades como:**
 
