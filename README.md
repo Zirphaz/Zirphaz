@@ -1,7 +1,7 @@
-<h1 align="center">Samuel | Desenvolvedor Front-end / Full Stack</h1>
+<h1 align="center">Samuel | Desenvolvedor Full Stack | Python & Automacao</h1>
 
 <p align="center">
-  Desenvolvimento web, cyber seguranca, produto digital e jogos pequenos com foco em codigo limpo, usabilidade e evolucao constante.
+  Desenvolvimento web, automacoes com banco de dados, cyber seguranca e produto digital com foco em solucoes praticas para negocios.
 </p>
 
 <p align="center">
@@ -9,32 +9,33 @@
     <img src="https://komarev.com/ghpvc/?username=Zirphaz&style=for-the-badge&color=0e75b6" alt="Visualizacoes do perfil">
   </a>
   <img src="https://img.shields.io/badge/Status-Buscando%20oportunidade-2ea44f?style=for-the-badge" alt="Buscando oportunidade">
-  <img src="https://img.shields.io/badge/Foco-Web%20%7C%20Cyber%20%7C%20Games-0e75b6?style=for-the-badge" alt="Foco profissional">
+  <img src="https://img.shields.io/badge/Foco-Web%20%7C%20Python%20%7C%20Automacao-0e75b6?style=for-the-badge" alt="Foco profissional">
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou um desenvolvedor em formacao, com experiencia pratica em cyber seguranca, criacao de jogos pequenos e desenvolvimento de projetos digitais. Tambem curso Publicidade, o que fortalece minha visao sobre comunicacao, experiencia do usuario, marca e apresentacao de produto.
+Sou desenvolvedor com experiencia pratica em criacao de sites para microempresas, automacoes com banco de dados e projetos digitais. Tenho forte conhecimento em Python, alem de experiencia com cyber seguranca, SQL, Lua, C++ e Unreal Engine. Tambem curso Publicidade, o que fortalece minha visao sobre comunicacao, experiencia do usuario, marca e apresentacao de produto.
 
-Estou buscando minha primeira oportunidade ou vaga junior em tecnologia para crescer dentro de um time, contribuir com entregas praticas e evoluir tecnicamente todos os dias. Meu foco principal esta em desenvolvimento web: interfaces responsivas, experiencias simples de usar, integracao com APIs e construcao de aplicacoes que saem do papel e funcionam.
+Estou buscando oportunidades em tecnologia para crescer dentro de um time, contribuir com entregas praticas e evoluir tecnicamente todos os dias. Meu foco principal esta em desenvolvimento web e automacao: interfaces responsivas, sistemas internos, integracao com banco de dados, APIs e solucoes que ajudam negocios reais a funcionar melhor.
 
 ## O que posso entregar
 
 - Criacao de paginas e interfaces responsivas.
+- Criacao de sites institucionais e paginas para microempresas.
 - Desenvolvimento de componentes com HTML, CSS, JavaScript e React.
-- Organizacao de projetos para portfolio e apresentacao profissional.
+- Sistemas de automacao com banco de dados para negocios como mercados e apartamentos.
 - Consumo de APIs e integracao entre front-end e back-end.
-- Scripts e automacoes simples com Python.
+- Automacoes, ferramentas internas e interfaces com Python.
+- Modelagem e manipulacao de dados com SQL e JSON.
 - Versionamento com Git e publicacao de projetos no GitHub.
-- Nocoes praticas de cyber seguranca aplicadas a cuidado com sistemas, dados e boas praticas.
-- Criacao de jogos pequenos como forma de treinar logica, interatividade e experiencia do usuario.
+- Cyber seguranca aplicada a cuidado com sistemas, dados, redes e boas praticas.
 
 ## Stack principal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,unity" alt="Tecnologias principais">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,cpp,lua,unreal,git,github,vscode" alt="Tecnologias principais">
 </p>
 
 ## Tecnologias e ferramentas
@@ -46,6 +47,11 @@ Estou buscando minha primeira oportunidade ou vaga junior em tecnologia para cre
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
@@ -54,12 +60,14 @@ Estou buscando minha primeira oportunidade ou vaga junior em tecnologia para cre
 
 | Area | Como eu aplico |
 | --- | --- |
-| Front-end | Construo telas responsivas, organizadas e focadas na experiencia do usuario. |
-| Full Stack | Estudo integracao entre interface, API, servidor e dados. |
-| Cyber seguranca | Tenho experiencia pratica e aplico essa visao para pensar em riscos, protecao e boas praticas. |
-| Jogos | Crio jogos pequenos para treinar logica, interacao, estado e experiencia do usuario. |
+| Criacao de sites | Desenvolvo paginas e sites para microempresas com foco em apresentacao, contato e presenca digital. |
+| Full Stack | Integro interface, logica, API, servidor, banco de dados e automacoes. |
+| Python | Uso Python para automacao, ferramentas internas, interfaces e manipulacao de dados. |
+| Dados | Trabalho com SQL e JSON para estruturar informacoes e conectar sistemas. |
+| Cyber seguranca | Tenho experiencia pratica e aplico essa visao para pensar em riscos, redes, protecao e boas praticas. |
+| Unreal / Lua / C++ | Tenho conhecimento tecnico em Unreal Engine, Lua e C++ para logica, sistemas e interatividade. |
 | Publicidade | Uso minha formacao para pensar em comunicacao, apresentacao visual e valor do produto. |
-| Automacao | Crio scripts para reduzir tarefas repetitivas e acelerar processos. |
+| Automacao | Crio solucoes para reduzir tarefas repetitivas e organizar operacoes de negocios. |
 | Produto | Penso no projeto como algo que precisa ser facil de entender, usar e manter. |
 
 ## Projetos para recrutadores
@@ -74,10 +82,11 @@ Estou organizando meus repositorios para destacar projetos que mostram conhecime
 
 | Projeto | Objetivo | Tecnologias |
 | --- | --- | --- |
-| Portfolio pessoal | Apresentar habilidades, projetos e contato profissional. | HTML, CSS, JavaScript |
-| Dashboard / sistema web | Demonstrar telas, estados, dados e organizacao de componentes. | React, Node.js |
-| Automacao pratica | Resolver uma tarefa repetitiva com script simples e documentado. | Python |
-| Jogo pequeno | Demonstrar logica, interatividade, feedback visual e criatividade tecnica. | JavaScript / Unity |
+| Portfolio profissional | Apresentar habilidades, projetos e contato profissional. | HTML, CSS, JavaScript |
+| Sites para microempresas | Criacao de paginas para presenca digital, servicos, contato e apresentacao comercial. | HTML, CSS, JavaScript |
+| Automacao para mercado | Sistema de apoio para controle, organizacao e fluxo de informacoes com banco de dados. | Python, SQL |
+| Automacao para apartamentos | Sistema para organizar dados, registros e processos internos. | Python, SQL, JSON |
+| Dashboard / sistema web | Telas, estados, dados, componentes e consumo de APIs. | React, Node.js |
 
 ## GitHub em numeros
 
@@ -98,11 +107,11 @@ Estou organizando meus repositorios para destacar projetos que mostram conhecime
 
 ## Roadmap de evolucao
 
-- Criar e publicar projetos completos com deploy.
-- Melhorar dominio de React, Node.js e APIs.
-- Estudar banco de dados e autenticacao.
-- Aprofundar cyber seguranca aplicada ao desenvolvimento.
-- Publicar jogos pequenos com pagina jogavel e codigo aberto.
+- Publicar projetos completos com README, prints e deploy.
+- Evoluir sistemas web com React, Node.js, APIs e banco de dados.
+- Aprofundar automacoes em Python com interfaces e persistencia de dados.
+- Aprofundar cyber seguranca aplicada ao desenvolvimento e redes.
+- Organizar estudos e projetos de Unreal, Lua e C++ como repositorios tecnicos.
 - Praticar testes, padroes de projeto e boas praticas.
 - Contribuir com projetos reais e colaborativos.
 
@@ -114,7 +123,7 @@ Estou aberto a oportunidades como:
 - Desenvolvedor Full Stack Junior.
 - Estagio em desenvolvimento de software.
 - Estagio ou oportunidade inicial em cyber seguranca.
-- Projetos freelance para web, interfaces e automacoes.
+- Projetos freelance para sites, sistemas internos e automacoes com banco de dados.
 
 ## Contato
 
