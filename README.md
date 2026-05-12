@@ -119,12 +119,15 @@ Estou aberto a oportunidades como:
 ## Contato
 
 <p align="left">
+  <a href="mailto:samuelferreira.trabalho@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-samuelferreira.trabalho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail profissional">
+  </a>
   <a href="https://github.com/Zirphaz">
     <img src="https://img.shields.io/badge/GitHub-Zirphaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-LinkedIn, e-mail e portfolio podem ser adicionados aqui assim que estiverem prontos para contato profissional.
+LinkedIn e portfolio podem ser adicionados aqui assim que estiverem prontos para contato profissional.
 
 ---
 
