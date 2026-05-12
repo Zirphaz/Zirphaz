@@ -114,7 +114,7 @@ I am looking for opportunities in technology where I can contribute with practic
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/samuel-alexander-ferreira-3709b72b7/">
+  <a href="https://www.linkedin.com/in/samuelferreira-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:samuelferreira.trabalho@gmail.com">
