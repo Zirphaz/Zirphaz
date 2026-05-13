@@ -1,103 +1,78 @@
-<h1 align="center">Samuel Ferreira | Full Stack Developer | Python, Java & JavaScript</h1>
+<h1 align="center">Samuel Ferreira</h1>
 
 <p align="center">
-  Web development, JavaScript interfaces, Java/Python systems, database automation and digital products focused on practical business solutions.
+  Desenvolvedor Full Stack Jr. focado em JavaScript, Java, Python, automacao, banco de dados e solucoes digitais para negocios reais.
 </p>
 
 <p align="center">
   <a href="https://github.com/Zirphaz">
     <img src="https://komarev.com/ghpvc/?username=Zirphaz&style=for-the-badge&color=0e75b6" alt="Profile views">
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities">
-  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20JavaScript%20%7C%20Java%20%7C%20Python-0e75b6?style=for-the-badge" alt="Professional focus">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities">
+  <img src="https://img.shields.io/badge/Stack-JavaScript%20%7C%20Java%20%7C%20Python-0e75b6?style=for-the-badge" alt="Main stack">
 </p>
 
 <p align="center">
-  <a href="#english">English</a> ·
-  <a href="#português">Português</a> ·
-  <a href="https://zirphaz.github.io/Zirphaz/">Portfolio</a> ·
-  <a href="mailto:samuelferreira.trabalho@gmail.com">Email</a>
+  <a href="https://zirphaz.github.io/Zirphaz/">Portfolio</a> |
+  <a href="Samuel_Ferreira_Curriculo_2026.pdf">Curriculo PDF</a> |
+  <a href="mailto:samuelferreira.trabalho@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/samuelferreira-dev/">LinkedIn</a>
 </p>
 
 ---
 
-## English
+## Sobre
 
-I am a developer with practical experience creating websites for small businesses, automation systems with databases and digital projects. I have strong knowledge of JavaScript, Java and Python, along with experience in cybersecurity, SQL, Lua, C++ and Unreal Engine. I also study Advertising, which strengthens my understanding of communication, user experience, branding and product presentation.
+Sou desenvolvedor com experiencia pratica em criacao de sites para microempresas, automacoes com banco de dados e sistemas internos para organizacao de operacoes. Trabalho principalmente com JavaScript, Java, Python, SQL e JSON.
 
-I am looking for opportunities in technology where I can contribute with practical deliveries, learn with real teams and keep growing technically. My main focus is web development and automation: responsive interfaces with JavaScript, internal systems with Java/Python, database integration, APIs and solutions that help real businesses work better.
+Tambem tenho experiencia com cyberseguranca, redes, C++, Lua e Unreal Engine 5, incluindo sistemas de movimento, simulacao, animacoes e criacao de texturas. Curso Publicidade e Propaganda, o que fortalece minha visao de produto, comunicacao, apresentacao visual e experiencia do usuario.
 
-## What I Can Deliver
-
-- Responsive websites and landing pages.
-- Institutional websites for small businesses.
-- Internal automation systems with databases for businesses such as markets and apartments.
-- Front-end components with HTML, CSS, JavaScript and React.
-- Java systems, object-oriented programming and application logic.
-- API consumption and front-end/back-end integration.
-- Python automation, internal tools, data handling and interfaces.
-- SQL and JSON for data structure and system integration.
-- Cybersecurity mindset applied to systems, data, networks and good practices.
-
-## Main Stack
+## Stack principal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,python,cpp,lua,unreal,git,github,vscode" alt="Main technologies">
+  <img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,html,css,cpp,lua,unreal,git,github,vscode" alt="Main technologies">
 </p>
 
-## Technologies And Tools
+## Projetos em destaque
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
-## Professional Profile
-
-| Area | How I Apply It |
-| --- | --- |
-| Website Development | I build websites for small businesses focused on presentation, contact and digital presence. |
-| Full Stack | I connect interface, logic, APIs, server, database and automation. |
-| Java / JavaScript | I use Java for object-oriented logic and JavaScript for web interfaces and interactive behavior. |
-| Python | I use Python for automation, internal tools, interfaces and data handling. |
-| Data | I work with SQL and JSON to structure information and connect systems. |
-| Cybersecurity | I apply practical knowledge to think about risks, networks, protection and good practices. |
-| Unreal / Lua / C++ | I have technical knowledge in Unreal Engine 5, Lua and C++ for logic, systems, interactivity and movement simulation. |
-| Advertising | I use my background to think about communication, visual presentation and product value. |
-| Automation | I create solutions to reduce repetitive tasks and organize business operations. |
-
-## Projects And Experience
-
-| Project / Experience | Goal | Technologies |
+| Projeto | Descricao | Stack |
 | --- | --- | --- |
-| Professional portfolio | Present skills, projects and professional contact. | HTML, CSS, JavaScript |
-| Websites for small businesses | Digital presence, services, contact and commercial presentation. | HTML, CSS, JavaScript |
-| Market automation system | Support control, organization and information flow with a database. | Python, SQL |
-| Apartment automation system | Organize data, records and internal processes. | Python, SQL, JSON |
-| Web dashboard / system | Screens, states, data, components and API consumption. | React, Node.js |
-| UE5 train and ship movement system | Movement logic and simulation systems for vehicles and transport behavior in Unreal Engine 5. | Unreal Engine 5, C++ |
+| [Automacao para mercado](projects/market-automation/README.md) | Sistema pensado para organizar registros, consultas, estoque e rotinas internas de mercado. | Python, SQL, JSON |
+| [Gestao de apartamentos](projects/apartment-management/README.md) | Controle de dados, registros, manutencoes e informacoes operacionais de apartamentos. | Python, SQL, CustomTkinter |
+| [Portfolio profissional](projects/professional-portfolio/README.md) | Site publicado no GitHub Pages para apresentar perfil, projetos, curriculo e contato. | HTML, CSS, JavaScript |
+| [Sistemas de movimento na UE5](projects/ue5-movement-system/README.md) | Prototipos de movimento para trens e navios, com foco em simulacao e interatividade. | Unreal Engine 5, C++, Lua |
 
-## Code Samples
+## Amostras de codigo
 
-This profile repository includes small code samples to represent my main stack beyond the portfolio page:
+- [Python: automacao e organizacao de operacoes](src/python/business_automation.py)
+- [JavaScript: dados de dashboard e filtros de portfolio](src/javascript/portfolioDashboard.js)
+- [Java: servico de organizacao de projetos](src/java/PortfolioAutomationService.java)
 
-- [Python business automation](src/python/business_automation.py)
-- [JavaScript portfolio dashboard helpers](src/javascript/portfolioDashboard.js)
-- [Java portfolio automation service](src/java/PortfolioAutomationService.java)
+## O que eu entrego
 
-## GitHub Stats
+- Sites responsivos para apresentacao comercial.
+- Sistemas internos para organizar dados e processos.
+- Automacoes em Python para reduzir tarefas repetitivas.
+- Interfaces e componentes com HTML, CSS, JavaScript e React.
+- Logica de aplicacao com Java e programacao orientada a objetos.
+- Integracao com SQL, JSON e APIs.
+- Boas praticas de seguranca, organizacao de acesso e cuidado com dados.
+- Prototipos e sistemas interativos com Unreal Engine 5, C++ e Lua.
+
+## Perfil tecnico
+
+| Area | Como aplico |
+| --- | --- |
+| Front-end | Interfaces responsivas, paginas institucionais, componentes e experiencia do usuario. |
+| Back-end / sistemas | Logica de negocio, APIs, dados, automacoes e organizacao de processos. |
+| Python | Ferramentas internas, automacao, consultas, relatorios e manipulacao de dados. |
+| Java | Logica estruturada, orientacao a objetos e organizacao de regras de negocio. |
+| Dados | SQL, JSON, modelagem simples e integracao entre sistemas. |
+| Cyberseguranca | Redes, boas praticas, protecao de dados e analise de riscos. |
+| Unreal Engine 5 | Logica, simulacao, movimento, animacoes, texturas e sistemas interativos. |
+| Comunicacao | Branding, apresentacao de produto, audiovisual e visao de usuario. |
+
+## GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zirphaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
@@ -108,64 +83,24 @@ This profile repository includes small code samples to represent my main stack b
   <img src="https://streak-stats.demolab.com?user=Zirphaz&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
-## Trophies
+## Buscando oportunidades
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zirphaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub trophies">
-</p>
+- Desenvolvedor Front-end Junior.
+- Desenvolvedor Full Stack Junior.
+- Estagio em desenvolvimento de software.
+- Oportunidade inicial em cyberseguranca.
+- Projetos freelance para sites, sistemas internos e automacoes.
 
-## Currently Looking For
-
-- Junior Front-end Developer roles.
-- Junior Full Stack Developer roles.
-- Software development internships.
-- Entry-level cybersecurity opportunities.
-- Freelance projects for websites, internal systems and database automation.
-
-## Contact
+## Contato
 
 <p align="left">
+  <a href="mailto:samuelferreira.trabalho@gmail.com">
+    <img src="https://img.shields.io/badge/Email-samuelferreira.trabalho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/samuelferreira-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:samuelferreira.trabalho@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-samuelferreira.trabalho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email">
-  </a>
-  <a href="https://github.com/Zirphaz">
-    <img src="https://img.shields.io/badge/GitHub-Zirphaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://zirphaz.github.io/Zirphaz/">
-    <img src="https://img.shields.io/badge/Portfolio-Online-2dd4bf?style=for-the-badge&logo=vercel&logoColor=111827" alt="Online portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Online-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=111827" alt="Portfolio">
   </a>
-</p>
-
----
-
-## Português
-
-Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em JavaScript, Java e Python, além de experiência com cyber segurança, SQL, Lua, C++ e Unreal Engine 5, incluindo criação de sistema de movimento para trens e navios. Também curso Publicidade, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
-
-Busco oportunidades em tecnologia para contribuir com entregas práticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal está em desenvolvimento web e automação: interfaces responsivas com JavaScript, lógica de aplicação com Java/Python, sistemas internos, integração com banco de dados, APIs e soluções que ajudam negócios reais a funcionar melhor.
-
-**Principais entregas:**
-
-- Sites responsivos e páginas para microempresas.
-- Interfaces e componentes com HTML, CSS, JavaScript e React.
-- Lógica de aplicação e programação orientada a objetos com Java.
-- Sistemas internos e automações com banco de dados.
-- Automações, ferramentas internas e interfaces com Python.
-- Integração com APIs, SQL e JSON.
-- Visão de cyber segurança aplicada a sistemas, dados, redes e boas práticas.
-- Sistemas de movimento e simulação na Unreal Engine 5.
-
-**Aberto a oportunidades como:**
-
-- Desenvolvedor Front-end Júnior.
-- Desenvolvedor Full Stack Júnior.
-- Estágio em desenvolvimento de software.
-- Oportunidade inicial em cyber segurança.
-- Projetos freelance para sites, sistemas internos e automações.
-
-<p align="center">
-  <strong>Open to opportunities and ready to deliver practical solutions with fast learning and real-world projects.</strong>
 </p>
