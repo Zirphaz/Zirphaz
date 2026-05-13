@@ -73,9 +73,10 @@ I am looking for opportunities in technology where I can contribute with practic
 
 | Project | Goal | Technologies |
 | --- | --- | --- |
-| [Market automation system](projects/market-automation/README.md) | Support records, queries, stock organization and internal market routines. | Python, SQL, JSON |
+| [Market automation system](projects/market-automation/README.md) | CLI system with SQLite for products, stock, sales and category summaries. | Python, SQLite |
 | [Apartment management system](projects/apartment-management/README.md) | Organize apartment records, maintenance data and operational information. | Python, SQL, CustomTkinter |
 | [Professional portfolio](projects/professional-portfolio/README.md) | Present skills, projects, resume and professional contact in one place. | HTML, CSS, JavaScript |
+| [React business dashboard](projects/web-dashboard/README.md) | Dashboard for sales metrics, stock alerts and project tracking. | JavaScript, React, Vite |
 | [UE5 and Unity movement systems](projects/ue5-movement-system/README.md) | Train and ship movement prototypes focused on simulation and interactivity. | Unreal Engine 5, Unity, C++, Lua |
 
 ## Code Samples
@@ -168,9 +169,10 @@ Busco oportunidades em tecnologia para contribuir com entregas práticas, aprend
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Automação para mercado](projects/market-automation/README.md) | Sistema pensado para organizar registros, consultas, estoque e rotinas internas de mercado. | Python, SQL, JSON |
+| [Automação para mercado](projects/market-automation/README.md) | Sistema CLI com SQLite para produtos, estoque, vendas e resumo por categoria. | Python, SQLite |
 | [Gestão de apartamentos](projects/apartment-management/README.md) | Controle de dados, registros, manutenções e informações operacionais de apartamentos. | Python, SQL, CustomTkinter |
 | [Portfólio profissional](projects/professional-portfolio/README.md) | Site publicado no GitHub Pages para apresentar perfil, projetos, currículo e contato. | HTML, CSS, JavaScript |
+| [Dashboard React para negócios](projects/web-dashboard/README.md) | Painel com métricas, vendas por categoria e acompanhamento de projetos. | JavaScript, React, Vite |
 | [Sistemas de movimento na UE5 e Unity](projects/ue5-movement-system/README.md) | Protótipos de movimento para trens e navios, com foco em simulação e interatividade. | Unreal Engine 5, Unity, C++, Lua |
 
 As amostras de código deste repositório mostram organização, lógica de negócio e conhecimento nas linguagens. Os projetos completos estão sendo documentados e evoluídos a partir dessas bases.

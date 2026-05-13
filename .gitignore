@@ -1,1 +1,5 @@
 .vscode/
+projects/market-automation/market.db
+projects/market-automation/*.db-journal
+projects/web-dashboard/node_modules/
+projects/web-dashboard/dist/

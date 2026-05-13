@@ -4,3 +4,4 @@ index.html linguist-documentation
 styles.css linguist-documentation
 Samuel_Ferreira_Curriculo_2026.pdf linguist-documentation
 src/** linguist-detectable=true
+projects/web-dashboard/package-lock.json linguist-generated=true
