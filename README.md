@@ -79,6 +79,8 @@ I am looking for opportunities in technology where I can contribute with practic
 | [React business dashboard](projects/web-dashboard/README.md) | Dashboard for sales metrics, stock alerts and project tracking. | JavaScript, React, Vite |
 | [UE5 and Unity movement systems](projects/ue5-movement-system/README.md) | Train and ship movement prototypes focused on simulation and interactivity. | Unreal Engine 5, Unity, C++, Lua |
 
+Pinned suggestion: keep this profile repository pinned on GitHub and, when the projects are split into separate repositories, pin the market automation and React dashboard repositories as the main technical highlights.
+
 ## Code Samples
 
 - [Python business automation](src/python/business_automation.py)
@@ -176,6 +178,8 @@ Busco oportunidades em tecnologia para contribuir com entregas práticas, aprend
 | [Sistemas de movimento na UE5 e Unity](projects/ue5-movement-system/README.md) | Protótipos de movimento para trens e navios, com foco em simulação e interatividade. | Unreal Engine 5, Unity, C++, Lua |
 
 As amostras de código deste repositório mostram organização, lógica de negócio e conhecimento nas linguagens. Os projetos completos estão sendo documentados e evoluídos a partir dessas bases.
+
+Sugestão de fixados: manter este repositório de perfil fixado no GitHub e, quando os projetos forem separados em repositórios próprios, fixar a automação de mercado e o dashboard React como principais destaques técnicos.
 
 ## Aberto A Oportunidades Como
 

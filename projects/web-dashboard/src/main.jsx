@@ -3,16 +3,22 @@ import { createRoot } from "react-dom/client";
 import "./styles.css";
 
 const metrics = [
-  { label: "Revenue", value: "R$ 8.420", change: "+12%" },
-  { label: "Orders", value: "184", change: "+18" },
-  { label: "Low stock", value: "7", change: "-3" },
-  { label: "Active projects", value: "4", change: "+1" },
+  { label: "Revenue", value: "R$ 8.420", change: "+12%", tone: "positive" },
+  { label: "Orders", value: "184", change: "+18", tone: "positive" },
+  { label: "Low stock", value: "7", change: "Needs action", tone: "warning" },
+  { label: "Active projects", value: "4", change: "+1", tone: "neutral" },
 ];
 
 const sales = [
   { category: "Food", revenue: 4820, units: 126 },
   { category: "Home", revenue: 2140, units: 54 },
   { category: "Cleaning", revenue: 1460, units: 38 },
+];
+
+const stockAlerts = [
+  { product: "Coffee 500g", category: "Food", quantity: 4, minimum: 5 },
+  { product: "Cleaner", category: "Home", quantity: 3, minimum: 4 },
+  { product: "Beans 1kg", category: "Food", quantity: 5, minimum: 6 },
 ];
 
 const projects = [
@@ -47,12 +53,12 @@ function MetricCard({ metric }) {
     <article className="metric-card">
       <span>{metric.label}</span>
       <strong>{metric.value}</strong>
-      <small>{metric.change}</small>
+      <small className={metric.tone}>{metric.change}</small>
     </article>
   );
 }
 
-function SalesTable() {
+function SalesPanel() {
   const totalRevenue = sales.reduce((sum, item) => sum + item.revenue, 0);
 
   return (
@@ -65,24 +71,51 @@ function SalesTable() {
         <strong>R$ {totalRevenue.toLocaleString("pt-BR")}</strong>
       </div>
 
-      <table>
-        <thead>
-          <tr>
-            <th>Category</th>
-            <th>Units</th>
-            <th>Revenue</th>
-          </tr>
-        </thead>
-        <tbody>
-          {sales.map((item) => (
-            <tr key={item.category}>
-              <td>{item.category}</td>
-              <td>{item.units}</td>
-              <td>R$ {item.revenue.toLocaleString("pt-BR")}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      <div className="sales-list">
+        {sales.map((item) => {
+          const width = `${Math.round((item.revenue / totalRevenue) * 100)}%`;
+
+          return (
+            <article className="sales-row" key={item.category}>
+              <div>
+                <strong>{item.category}</strong>
+                <span>{item.units} units</span>
+              </div>
+              <div className="bar">
+                <span style={{ width }} />
+              </div>
+              <strong>R$ {item.revenue.toLocaleString("pt-BR")}</strong>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+  );
+}
+
+function StockAlerts() {
+  return (
+    <section className="panel compact-panel">
+      <div className="panel-heading">
+        <div>
+          <p>Stock</p>
+          <h2>Attention list</h2>
+        </div>
+      </div>
+
+      <div className="alert-list">
+        {stockAlerts.map((item) => (
+          <article className="alert-row" key={item.product}>
+            <div>
+              <strong>{item.product}</strong>
+              <span>{item.category}</span>
+            </div>
+            <small>
+              {item.quantity}/{item.minimum}
+            </small>
+          </article>
+        ))}
+      </div>
     </section>
   );
 }
@@ -117,27 +150,52 @@ function ProjectList() {
 
 function App() {
   return (
-    <main>
-      <header className="hero">
-        <div>
-          <p>React dashboard</p>
-          <h1>Business control panel for sales, stock and project tracking.</h1>
+    <div className="app-shell">
+      <aside className="sidebar">
+        <div className="brand">
+          <span>SF</span>
+          <div>
+            <strong>Business Panel</strong>
+            <small>React dashboard</small>
+          </div>
         </div>
-      </header>
+        <nav>
+          <a href="#overview">Overview</a>
+          <a href="#sales">Sales</a>
+          <a href="#stock">Stock</a>
+          <a href="#projects">Projects</a>
+        </nav>
+      </aside>
 
-      <section className="metrics-grid">
-        {metrics.map((metric) => (
-          <MetricCard key={metric.label} metric={metric} />
-        ))}
-      </section>
+      <main id="overview">
+        <header className="hero">
+          <div>
+            <p>React dashboard</p>
+            <h1>Business control panel for sales, stock and project tracking.</h1>
+          </div>
+          <a href="https://github.com/Zirphaz/Zirphaz" target="_blank" rel="noreferrer">
+            View repository
+          </a>
+        </header>
 
-      <section className="content-grid">
-        <SalesTable />
-        <ProjectList />
-      </section>
-    </main>
+        <section className="metrics-grid">
+          {metrics.map((metric) => (
+            <MetricCard key={metric.label} metric={metric} />
+          ))}
+        </section>
+
+        <section className="content-grid">
+          <div className="primary-column" id="sales">
+            <SalesPanel />
+            <ProjectList />
+          </div>
+          <div id="stock">
+            <StockAlerts />
+          </div>
+        </section>
+      </main>
+    </div>
   );
 }
 
 createRoot(document.getElementById("root")).render(<App />);
-

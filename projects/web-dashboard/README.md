@@ -5,7 +5,9 @@ Dashboard criado para apresentar uma visao simples de vendas, estoque e andament
 ## Funcionalidades
 
 - Cards de metricas principais.
-- Tabela de receita por categoria.
+- Barra lateral de navegacao.
+- Painel de receita por categoria com barras proporcionais.
+- Lista de alerta para baixo estoque.
 - Lista de projetos com status e progresso.
 - Dados calculados com JavaScript.
 - Layout responsivo.
@@ -26,4 +28,4 @@ npm run dev
 
 ## Status
 
-Primeira versao funcional. Pode evoluir depois para consumir API, integrar dados reais do sistema Python e adicionar graficos.
+Versao funcional com build de producao validado. Pode evoluir depois para consumir API, integrar dados reais do sistema Python e adicionar graficos.
