@@ -1,6 +1,6 @@
-# Sistemas de Movimento na Unreal Engine 5
+# Sistemas de Movimento na Unreal Engine 5 e Unity
 
-Prototipos e estudos de movimento para trens e navios dentro da Unreal Engine 5, com foco em simulacao, interatividade e comportamento de transporte.
+Prototipos e estudos de movimento para trens e navios dentro da Unreal Engine 5, com conhecimento tambem em Unity, simulacao, interatividade e comportamento de transporte.
 
 ## Objetivo
 
@@ -9,6 +9,7 @@ Desenvolver logicas de movimento que possam ser aplicadas em simuladores, jogos,
 ## Competencias aplicadas
 
 - Unreal Engine 5.
+- Unity.
 - C++.
 - Lua.
 - Logica de sistemas.
