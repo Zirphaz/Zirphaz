@@ -15,12 +15,12 @@ Reduzir tarefas repetitivas e centralizar informacoes importantes para facilitar
 - Alertas de baixo estoque.
 - Organizacao de dados em SQL/JSON.
 
-## Tecnologias
+## Tecnologias relacionadas
 
 - Python
 - SQL
 - JSON
-- CustomTkinter
+- CustomTkinter, em interface desktop planejada
 
 ## Codigo relacionado
 
@@ -29,4 +29,4 @@ Reduzir tarefas repetitivas e centralizar informacoes importantes para facilitar
 
 ## Status
 
-Em evolucao. A base atual demonstra a logica de automacao, consolidacao de dados e organizacao de tarefas.
+Em evolucao. A base atual demonstra logica de estoque, calculo por categoria, alerta de baixo estoque e organizacao de tarefas. Banco de dados, telas e fluxo completo entram como proximas etapas.

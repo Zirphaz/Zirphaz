@@ -84,6 +84,8 @@ I am looking for opportunities in technology where I can contribute with practic
 - [JavaScript portfolio dashboard helpers](src/javascript/portfolioDashboard.js)
 - [Java portfolio automation service](src/java/PortfolioAutomationService.java)
 
+These files are small technical samples used to show code organization, business logic and language knowledge. The complete projects are being documented and evolved from these bases.
+
 ## Professional Profile
 
 | Area | How I Apply It |
@@ -170,6 +172,8 @@ Busco oportunidades em tecnologia para contribuir com entregas práticas, aprend
 | [Gestão de apartamentos](projects/apartment-management/README.md) | Controle de dados, registros, manutenções e informações operacionais de apartamentos. | Python, SQL, CustomTkinter |
 | [Portfólio profissional](projects/professional-portfolio/README.md) | Site publicado no GitHub Pages para apresentar perfil, projetos, currículo e contato. | HTML, CSS, JavaScript |
 | [Sistemas de movimento na UE5 e Unity](projects/ue5-movement-system/README.md) | Protótipos de movimento para trens e navios, com foco em simulação e interatividade. | Unreal Engine 5, Unity, C++, Lua |
+
+As amostras de código deste repositório mostram organização, lógica de negócio e conhecimento nas linguagens. Os projetos completos estão sendo documentados e evoluídos a partir dessas bases.
 
 ## Aberto A Oportunidades Como
 

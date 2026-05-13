@@ -15,12 +15,12 @@ Criar uma ferramenta simples para consultar dados rapidamente, reduzir perda de 
 - Organizacao de dados em banco local.
 - Exportacao de informacoes importantes.
 
-## Tecnologias
+## Tecnologias relacionadas
 
 - Python
 - SQL
 - JSON
-- CustomTkinter
+- CustomTkinter, em interface desktop planejada
 
 ## Codigo relacionado
 
@@ -28,4 +28,4 @@ Criar uma ferramenta simples para consultar dados rapidamente, reduzir perda de 
 
 ## Status
 
-Em desenvolvimento conceitual e tecnico, com foco em estrutura de dados e automacao de consultas.
+Em desenvolvimento conceitual e tecnico. A base atual aproveita a estrutura de tarefas e organizacao operacional; cadastro, banco local e telas ainda sao etapas planejadas.

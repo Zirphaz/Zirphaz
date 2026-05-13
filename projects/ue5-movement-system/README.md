@@ -28,4 +28,4 @@ Desenvolver logicas de movimento que possam ser aplicadas em simuladores, jogos,
 
 ## Status
 
-Experiencia pratica e estudos em andamento.
+Experiencia pratica e estudos em andamento. Este repositorio documenta a competencia e o escopo do projeto; arquivos nativos da Unreal/Unity, videos ou prints podem ser adicionados depois como demonstracao visual.

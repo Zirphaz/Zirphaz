@@ -30,4 +30,4 @@ Ter uma pagina direta para recrutadores, clientes e contatos profissionais, reun
 
 ## Status
 
-Publicado e em melhoria continua.
+Publicado e em melhoria continua. Este e o projeto mais completo do repositorio, com pagina real, estilos, links e publicacao via GitHub Pages.
