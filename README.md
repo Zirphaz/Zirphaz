@@ -89,6 +89,14 @@ I am looking for opportunities in technology where I can contribute with practic
 | Web dashboard / system | Screens, states, data, components and API consumption. | React, Node.js |
 | UE5 train and ship movement system | Movement logic and simulation systems for vehicles and transport behavior in Unreal Engine 5. | Unreal Engine 5, C++ |
 
+## Code Samples
+
+This profile repository includes small code samples to represent my main stack beyond the portfolio page:
+
+- [Python automation report](examples/python/automation_report.py)
+- [JavaScript dashboard data helpers](examples/javascript/dashboardData.js)
+- [Java business automation service](examples/java/BusinessAutomationService.java)
+
 ## GitHub Stats
 
 <p align="center">

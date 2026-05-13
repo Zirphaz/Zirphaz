@@ -1,0 +1,6 @@
+# Keep portfolio and resume assets out of GitHub language statistics.
+README.md linguist-documentation
+index.html linguist-documentation
+styles.css linguist-documentation
+Samuel_Ferreira_Curriculo_2026.* linguist-documentation
+
