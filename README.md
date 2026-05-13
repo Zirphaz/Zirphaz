@@ -16,7 +16,8 @@
   <a href="#english">English</a> |
   <a href="#português">Português</a> |
   <a href="https://zirphaz.github.io/Zirphaz/">Portfolio</a> |
-  <a href="Samuel_Ferreira_Curriculo_2026.pdf">Currículo PDF</a> |
+  <a href="Samuel_Ferreira_Curriculo_2026.pdf">Currículo PT-BR</a> |
+  <a href="Samuel_Ferreira_Resume_2026.pdf">Resume EN</a> |
   <a href="mailto:samuelferreira.trabalho@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/samuelferreira-dev/">LinkedIn</a>
 </p>
@@ -142,6 +143,9 @@ These files are small technical samples used to show code organization, business
   </a>
   <a href="https://zirphaz.github.io/Zirphaz/">
     <img src="https://img.shields.io/badge/Portfolio-Online-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=111827" alt="Online portfolio">
+  </a>
+  <a href="Samuel_Ferreira_Resume_2026.pdf">
+    <img src="https://img.shields.io/badge/Resume-English-0e75b6?style=for-the-badge&logo=readme&logoColor=white" alt="English resume">
   </a>
 </p>
 
