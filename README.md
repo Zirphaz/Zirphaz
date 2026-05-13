@@ -93,9 +93,9 @@ I am looking for opportunities in technology where I can contribute with practic
 
 This profile repository includes small code samples to represent my main stack beyond the portfolio page:
 
-- [Python automation report](examples/python/automation_report.py)
-- [JavaScript dashboard data helpers](examples/javascript/dashboardData.js)
-- [Java business automation service](examples/java/BusinessAutomationService.java)
+- [Python business automation](src/python/business_automation.py)
+- [JavaScript portfolio dashboard helpers](src/javascript/portfolioDashboard.js)
+- [Java portfolio automation service](src/java/PortfolioAutomationService.java)
 
 ## GitHub Stats
 
