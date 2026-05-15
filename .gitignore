@@ -1,5 +1,9 @@
 .vscode/
+node_modules/
+.env
+*.log
 projects/market-automation/market.db
 projects/market-automation/*.db-journal
 projects/web-dashboard/node_modules/
 projects/web-dashboard/dist/
+projects/discord-support-bot/node_modules/

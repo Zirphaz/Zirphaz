@@ -37,6 +37,7 @@ I am looking for opportunities in technology where I can contribute with practic
 - Internal automation systems with databases for businesses such as markets and apartments.
 - Front-end components with HTML, CSS, JavaScript and React.
 - Java systems, object-oriented programming and application logic.
+- Discord bots, API integration and Node.js automation.
 - API consumption and front-end/back-end integration.
 - Python automation, internal tools, data handling and interfaces.
 - SQL and JSON for data structure and system integration.
@@ -78,9 +79,10 @@ I am looking for opportunities in technology where I can contribute with practic
 | [Apartment management system](projects/apartment-management/README.md) | Organize apartment records, maintenance data and operational information. | Python, SQL, CustomTkinter |
 | [Professional portfolio](projects/professional-portfolio/README.md) | Present skills, projects, resume and professional contact in one place. | HTML, CSS, JavaScript |
 | [React business dashboard](projects/web-dashboard/README.md) | Dashboard for sales metrics, stock alerts and project tracking. | JavaScript, React, Vite |
+| [Discord support ticket bot](projects/discord-support-bot/README.md) | Discord bot with ticket panel, private channels, staff actions, logs and deploy setup. | Node.js, Discord.js |
 | [UE5 and Unity movement systems](projects/ue5-movement-system/README.md) | Train and ship movement prototypes focused on simulation and interactivity. | Unreal Engine 5, Unity, C++, Lua |
 
-Pinned suggestion: keep this profile repository pinned on GitHub and, when the projects are split into separate repositories, pin the market automation and React dashboard repositories as the main technical highlights.
+Pinned suggestion: keep this profile repository pinned on GitHub and, when the projects are split into separate repositories, pin the Discord bot, market automation and React dashboard repositories as the main technical highlights.
 
 ## Code Samples
 
@@ -184,6 +186,10 @@ Busco oportunidades em tecnologia para contribuir com entregas práticas, aprend
 As amostras de código deste repositório mostram organização, lógica de negócio e conhecimento nas linguagens. Os projetos completos estão sendo documentados e evoluídos a partir dessas bases.
 
 Sugestão de fixados: manter este repositório de perfil fixado no GitHub e, quando os projetos forem separados em repositórios próprios, fixar a automação de mercado e o dashboard React como principais destaques técnicos.
+
+## Projeto Recente
+
+- [Bot de atendimento para Discord](projects/discord-support-bot/README.md): bot em Node.js com Discord.js, painel de tickets, canais privados, comandos slash, logs, Docker e preparo para deploy.
 
 ## Aberto A Oportunidades Como
 
