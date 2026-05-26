@@ -1,204 +1,87 @@
-<h1 align="center">Samuel Ferreira | Full Stack Developer | Python, Java & JavaScript</h1>
+<h1 align="center">Samuel Ferreira | UI Programmer & Full Stack Developer</h1>
 
 <p align="center">
-  Web development, JavaScript interfaces, Java/Python systems, database automation, cybersecurity and interactive projects with Unreal Engine 5 and Unity.
+  Unreal Engine 5, C++, UI, horror games, train and station systems, interactive systems, web services, automation, commercial websites, and product-minded development with UE5, Unity, Lua, JavaScript, React, Node.js, Python, Java, and SQL.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zirphaz">
-    <img src="https://komarev.com/ghpvc/?username=Zirphaz&style=for-the-badge&color=0e75b6" alt="Profile views">
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-2ea44f?style=for-the-badge" alt="Open to opportunities">
-  <img src="https://img.shields.io/badge/Focus-Web%20%7C%20JavaScript%20%7C%20Java%20%7C%20Python-0e75b6?style=for-the-badge" alt="Professional focus">
-</p>
-
-<p align="center">
-  <a href="#english">English</a> |
-  <a href="#português">Português</a> |
   <a href="https://zirphaz.github.io/Zirphaz/">Portfolio</a> |
-  <a href="Samuel_Ferreira_Curriculo_2026.pdf">Currículo PT-BR</a> |
+  <a href="PROJECTS.md">Projects</a> |
+  <a href="Samuel_Ferreira_Curriculo_Pleno_2026.pdf">Curriculo PT-BR</a> |
   <a href="Samuel_Ferreira_Resume_2026.pdf">Resume EN</a> |
-  <a href="mailto:samuelferreira.trabalho@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/samuelferreira-dev/">LinkedIn</a>
 </p>
 
 ---
 
-## English
+## Profile
 
-I am a developer with practical experience creating websites for small businesses, automation systems with databases and digital projects. I have strong knowledge of JavaScript, Java and Python, along with experience in cybersecurity, SQL, Lua, C++, Unreal Engine 5 and Unity. I also study Advertising, which strengthens my understanding of communication, user experience, branding and product presentation.
+I am a UI Programmer and developer experienced in Unreal Engine 5, C++, UI implementation, full stack systems, automation, and interactive experiences. I have built horror game projects, train and station systems, movement and simulation logic, UI flows, animation-driven interactions, dashboards, APIs, and user-facing tools.
 
-I am looking for opportunities in technology where I can contribute with practical deliveries, learn with real teams and keep growing technically. My main focus is web development and automation: responsive interfaces with JavaScript, internal systems with Java/Python, database integration, APIs and solutions that help real businesses work better.
+My portfolio includes engine-based projects, responsive interfaces, a commercial apartment rental website, Discord workflow automation, business automation tools, defensive security audits, brand and media planning utilities, and movement/simulation systems. I care about maintainable code, service integration, debugging, layout details, performance, and building software that feels clear to the person using it.
 
-## What I Can Deliver
+I also study Advertising and Propaganda, which strengthens my perspective on UX, communication, brand, campaign strategy, product presentation, and audience-centered decisions. The Residencial Matilde Carreiro website is my strongest combined case because it includes positioning, local service messaging, conversion copy, visual direction, and front-end implementation.
 
-- Responsive websites and landing pages.
-- Institutional websites for small businesses.
-- Internal automation systems with databases for businesses such as markets and apartments.
-- Front-end components with HTML, CSS, JavaScript and React.
-- Java systems, object-oriented programming and application logic.
-- Discord bots, API integration and Node.js automation.
-- API consumption and front-end/back-end integration.
-- Python automation, internal tools, data handling and interfaces.
-- SQL and JSON for data structure and system integration.
-- Cybersecurity mindset applied to systems, data, networks and good practices.
-- Interactive systems, simulations, movement logic, animations and textures with Unreal Engine 5.
-- Game and interactive project knowledge with Unity, C++, Lua and engine-based workflows.
+## Current Target
 
-## Main Stack
+- UI Programmer
+- Front-end / Full Stack Developer with interactive systems focus
+- Software Developer for player-facing, service-integrated, and product-oriented tools
+- Advertising and Propaganda work involving brand, copy, local service funnels, and product communication
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,python,react,nodejs,html,css,cpp,lua,unreal,unity,git,github,vscode" alt="Main technologies">
-</p>
+## Core Strengths
 
-## Technologies And Tools
+- UI development with React, JavaScript, HTML, CSS, responsive layouts, dashboards, and interaction flows.
+- Interactive systems with Unreal Engine 5, Unity, C++, Lua, horror game projects, train and station systems, simulation logic, movement systems, and animation.
+- Web services and automation with Node.js, Python, Java, SQL, JSON, APIs, Discord.js, and internal tools.
+- Quality and security habits around debugging, environment configuration, secrets hygiene, and defensive code review.
+- Communication and product thinking from Advertising and Propaganda, including positioning, conversion copy, content structure, and local business presentation.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-1f6feb?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine">
-  <img src="https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+## Main Projects
 
-## Featured Projects
+| Project | Delivery | Stack | Status |
+| --- | --- | --- | --- |
+| [UE5 and Unity movement systems](projects/ue5-movement-system/README.md) | Horror game projects, train and station systems, movement/simulation work, engine workflows, C++, Lua, animation, and prototype documentation. | UE5, Unity, C++, Lua | Complementary |
+| [React business dashboard](projects/web-dashboard/README.md) | Responsive dashboard with metrics, proportional bars, low-stock alerts, project progress, and production build validation. | React, JavaScript, Vite | Functional |
+| [Discord support ticket bot](projects/discord-support-bot/README.md) | Bot with tickets, slash commands, permissions, logs, configurable panel, interactive components, and deploy preparation. | Node.js, Discord.js, Docker | Functional |
+| [Security risk audit](projects/security-risk-audit/README.md) | Defensive CLI tool for checking hardcoded secrets, active debug flags, and unsafe configuration patterns. | Python, Regex, CLI | Functional |
+| [Market automation system](projects/market-automation/README.md) | CLI for products, inventory, sales, category summaries, and automated tests. | Python, SQLite, unittest | Functional |
+| [Residencial Matilde Carreiro rental website](projects/residencial-matilde-carreiro-site/README.md) | Commercial website for apartment rental with positioning, copywriting, visual direction, filters, WhatsApp lead flow, and responsive front-end implementation. | HTML, CSS, JavaScript, Advertising | Portfolio case |
+| [Professional portfolio](projects/professional-portfolio/README.md) | GitHub Pages portfolio centralizing profile, projects, resume, and contact. | HTML, CSS, GitHub Pages | Published |
 
-| Project | Goal | Technologies |
-| --- | --- | --- |
-| [Market automation system](projects/market-automation/README.md) | CLI system with SQLite for products, stock, sales and category summaries. | Python, SQLite |
-| [Apartment management system](projects/apartment-management/README.md) | Organize apartment records, maintenance data and operational information. | Python, SQL, CustomTkinter |
-| [Professional portfolio](projects/professional-portfolio/README.md) | Present skills, projects, resume and professional contact in one place. | HTML, CSS, JavaScript |
-| [React business dashboard](projects/web-dashboard/README.md) | Dashboard for sales metrics, stock alerts and project tracking. | JavaScript, React, Vite |
-| [Discord support ticket bot](projects/discord-support-bot/README.md) | Discord bot with ticket panel, private channels, staff actions, logs and deploy setup. | Node.js, Discord.js |
-| [UE5 and Unity movement systems](projects/ue5-movement-system/README.md) | Train and ship movement prototypes focused on simulation and interactivity. | Unreal Engine 5, Unity, C++, Lua |
+## Additional Projects
 
-Pinned suggestion: keep this profile repository pinned on GitHub and, when the projects are split into separate repositories, pin the Discord bot, market automation and React dashboard repositories as the main technical highlights.
+| Project | Scope |
+| --- | --- |
+| [Brand campaign planner](projects/brand-campaign-planner/README.md) | Briefing, positioning, message, content pillars, and campaign KPIs. |
+| [Media budget planner](projects/media-budget-planner/README.md) | Media plan with budget, impressions, clicks, conversions, cost per result, and export. |
+| [Brand positioning audit](projects/brand-positioning-audit/README.md) | Diagnosis of clarity, differentiation, credibility, and audience fit. |
+| [Apartment management system](projects/apartment-management/README.md) | Technical organization for apartment records, maintenance, and operational queries. |
+| [Residencial Matilde Carreiro rental website](projects/residencial-matilde-carreiro-site/README.md) | Real small-business case combining Advertising and Propaganda strategy with front-end programming. |
 
 ## Code Samples
 
 - [Python business automation](src/python/business_automation.py)
-- [JavaScript portfolio dashboard helpers](src/javascript/portfolioDashboard.js)
-- [Java portfolio automation service](src/java/PortfolioAutomationService.java)
+- [JavaScript dashboard helpers](src/javascript/portfolioDashboard.js)
+- [Java automation service](src/java/PortfolioAutomationService.java)
+- [Defensive security audit](projects/security-risk-audit/security_audit.py)
+- [Campaign planner](projects/brand-campaign-planner/campaign_planner.py)
+- [Media budget planner](projects/media-budget-planner/media_budget.py)
+- [Brand positioning audit](projects/brand-positioning-audit/positioning_audit.py)
+- [Residencial Matilde Carreiro website case](projects/residencial-matilde-carreiro-site/README.md)
 
-These files are small technical samples used to show code organization, business logic and language knowledge. The complete projects are being documented and evolved from these bases.
+## Technical Quality
 
-## Professional Profile
-
-| Area | How I Apply It |
-| --- | --- |
-| Website Development | I build websites for small businesses focused on presentation, contact and digital presence. |
-| Full Stack | I connect interface, logic, APIs, server, database and automation. |
-| Java / JavaScript | I use Java for object-oriented logic and JavaScript for web interfaces and interactive behavior. |
-| Python | I use Python for automation, internal tools, interfaces and data handling. |
-| Data | I work with SQL and JSON to structure information and connect systems. |
-| Cybersecurity | I apply practical knowledge to think about risks, networks, protection and good practices. |
-| Unreal / Unity / Lua / C++ | I work with engine logic, interactivity, simulations, movement systems, animations and textures. |
-| Advertising | I use my background to think about communication, visual presentation and product value. |
-| Automation | I create solutions to reduce repetitive tasks and organize business operations. |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zirphaz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zirphaz&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zirphaz&theme=tokyonight&hide_border=true" alt="GitHub streak">
-</p>
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zirphaz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub trophies">
-</p>
-
-## Currently Looking For
-
-- Junior Front-end Developer roles.
-- Junior Full Stack Developer roles.
-- Software development internships.
-- Entry-level cybersecurity opportunities.
-- Freelance projects for websites, internal systems and database automation.
+- Secrets stay outside the repository; projects use examples and required environment variable validation where applicable.
+- Generated folders, local databases, and caches are ignored by Git.
+- Application-specific cover letters and tailored resumes stay local unless intentionally shared.
+- React dashboard validated with `npm run build`.
+- Python automation project validated with `python -m unittest discover -s tests`.
+- Security and advertising utilities compile with `python -m py_compile`.
+- Media planner includes automated tests for budget, report, and CSV behavior.
 
 ## Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/samuelferreira-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:samuelferreira.trabalho@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-samuelferreira.trabalho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Professional email">
-  </a>
-  <a href="https://github.com/Zirphaz">
-    <img src="https://img.shields.io/badge/GitHub-Zirphaz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://zirphaz.github.io/Zirphaz/">
-    <img src="https://img.shields.io/badge/Portfolio-Online-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=111827" alt="Online portfolio">
-  </a>
-  <a href="Samuel_Ferreira_Resume_2026.pdf">
-    <img src="https://img.shields.io/badge/Resume-English-0e75b6?style=for-the-badge&logo=readme&logoColor=white" alt="English resume">
-  </a>
-</p>
-
----
-
-## Português
-
-Sou desenvolvedor com experiência prática em criação de sites para microempresas, automações com banco de dados e projetos digitais. Tenho forte conhecimento em JavaScript, Java e Python, além de experiência com cybersegurança, SQL, Lua, C++, Unreal Engine 5 e Unity. Também curso Publicidade e Propaganda, o que fortalece minha visão sobre comunicação, experiência do usuário, marca e apresentação de produto.
-
-Busco oportunidades em tecnologia para contribuir com entregas práticas, aprender com times reais e continuar evoluindo tecnicamente. Meu foco principal está em desenvolvimento web e automação: interfaces responsivas com JavaScript, lógica de aplicação com Java/Python, sistemas internos, integração com banco de dados, APIs e soluções que ajudam negócios reais a funcionar melhor.
-
-## Principais Entregas
-
-- Sites responsivos e páginas para microempresas.
-- Interfaces e componentes com HTML, CSS, JavaScript e React.
-- Lógica de aplicação e programação orientada a objetos com Java.
-- Sistemas internos e automações com banco de dados.
-- Automações, ferramentas internas e interfaces com Python.
-- Integração com APIs, SQL e JSON.
-- Visão de cybersegurança aplicada a sistemas, dados, redes e boas práticas.
-- Sistemas de movimento e simulação na Unreal Engine 5.
-- Criação profissional de animações e texturas na UE5.
-- Conhecimento em Unity, engines, jogos e sistemas interativos.
-- Comunicação visual, branding, audiovisual e apresentação de produto.
-
-## Projetos Em Destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [Automação para mercado](projects/market-automation/README.md) | Sistema CLI com SQLite para produtos, estoque, vendas e resumo por categoria. | Python, SQLite |
-| [Gestão de apartamentos](projects/apartment-management/README.md) | Controle de dados, registros, manutenções e informações operacionais de apartamentos. | Python, SQL, CustomTkinter |
-| [Portfólio profissional](projects/professional-portfolio/README.md) | Site publicado no GitHub Pages para apresentar perfil, projetos, currículo e contato. | HTML, CSS, JavaScript |
-| [Dashboard React para negócios](projects/web-dashboard/README.md) | Painel com métricas, vendas por categoria e acompanhamento de projetos. | JavaScript, React, Vite |
-| [Sistemas de movimento na UE5 e Unity](projects/ue5-movement-system/README.md) | Protótipos de movimento para trens e navios, com foco em simulação e interatividade. | Unreal Engine 5, Unity, C++, Lua |
-
-As amostras de código deste repositório mostram organização, lógica de negócio e conhecimento nas linguagens. Os projetos completos estão sendo documentados e evoluídos a partir dessas bases.
-
-Sugestão de fixados: manter este repositório de perfil fixado no GitHub e, quando os projetos forem separados em repositórios próprios, fixar a automação de mercado e o dashboard React como principais destaques técnicos.
-
-## Projeto Recente
-
-- [Bot de atendimento para Discord](projects/discord-support-bot/README.md): bot em Node.js com Discord.js, painel de tickets, canais privados, comandos slash, logs, Docker e preparo para deploy.
-
-## Aberto A Oportunidades Como
-
-- Desenvolvedor Front-end Júnior.
-- Desenvolvedor Full Stack Júnior.
-- Estágio em desenvolvimento de software.
-- Oportunidade inicial em cybersegurança.
-- Projetos freelance para sites, sistemas internos e automações.
-
-<p align="center">
-  <strong>Open to opportunities and ready to deliver practical solutions with fast learning and real-world projects.</strong>
-</p>
+- Portfolio: <https://zirphaz.github.io/Zirphaz/>
+- LinkedIn: <https://www.linkedin.com/in/samuelferreira-dev/>
+- GitHub: <https://github.com/Zirphaz>

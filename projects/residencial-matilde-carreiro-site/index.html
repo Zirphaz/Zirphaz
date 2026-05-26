@@ -1,0 +1,476 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light" />
+    <meta name="darkreader-lock" />
+    <meta
+      name="description"
+      content="Residencial Matilde Carreiro em Juazeiro do Norte: apartamentos disponíveis e alugados com atendimento profissional para locação."
+    />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; frame-src https://www.google.com; connect-src 'none'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests"
+    />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    <title>Residencial Matilde Carreiro</title>
+    <!-- Arquivo visual oficial: site-final.css. -->
+    <link rel="stylesheet" href="site-final.css?v=29" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-links" aria-label="Menu principal">
+        <a href="#imoveis">Apartamentos</a>
+        <a href="#locacao">Como alugar</a>
+        <a href="#duvidas">Dúvidas</a>
+        <a href="#sobre">Sobre</a>
+        <a href="#contato">Contato</a>
+      </nav>
+
+      <a class="header-action" href="#contato">Agendar visita</a>
+    </header>
+
+    <main>
+      <section class="hero" id="inicio" aria-labelledby="hero-title">
+        <div class="hero-content">
+          <p class="eyebrow">Rua Eng. José Onofre Marques, 106</p>
+          <img
+            class="brand-lettering"
+            src="assets/brand-lettering-transparent.png"
+            alt=""
+            aria-hidden="true"
+          />
+          <h1 id="hero-title">Alugue no São José com atendimento direto.</h1>
+          <p class="hero-copy">
+            Consulte unidades disponíveis, tire dúvidas sobre valores e combine uma visita com a
+            equipe.
+          </p>
+          <div class="hero-tags" aria-label="Destaques do residencial">
+            <span>São José</span>
+            <span>Somente aluguel</span>
+            <span>Visita agendada</span>
+          </div>
+          <div class="hero-actions">
+            <a class="button primary" href="#imoveis">Ver disponíveis</a>
+            <a class="button secondary" href="#contato">Agendar visita</a>
+          </div>
+        </div>
+        <figure class="hero-photo">
+          <img
+            src="assets/fachada-matilde-carreiro.png"
+            alt="Fachada do Residencial Matilde Carreiro na Rua Engenheiro José Onofre Marques, 106"
+          />
+          <figcaption>
+            Imagem de referência da fachada baseada no Street View. Substitua por foto própria
+            quando tiver.
+          </figcaption>
+        </figure>
+        <div class="hero-panel" aria-label="Resumo das unidades do residencial">
+          <span>Unidades cadastradas</span>
+          <strong id="heroTotal">0 apartamentos</strong>
+          <small id="heroAvailable">0 disponíveis hoje</small>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="Indicadores">
+        <article>
+          <strong id="availableCount">0</strong>
+          <span>Disponíveis</span>
+        </article>
+        <article>
+          <strong id="rentedCount">0</strong>
+          <span>Alugados</span>
+        </article>
+        <article>
+          <strong>São José</strong>
+          <span>Base local</span>
+        </article>
+        <article>
+          <strong>Locação</strong>
+          <span>Foco em locação</span>
+        </article>
+      </section>
+
+      <section class="section intro" id="sobre">
+        <div>
+          <p class="eyebrow">Atendimento local</p>
+          <h2>Um jeito simples de consultar apartamentos para aluguel.</h2>
+        </div>
+        <p>
+          O Residencial Matilde Carreiro fica na Rua Eng. José Onofre Marques, no bairro São José.
+          Este site foi criado para mostrar as unidades cadastradas, separar apartamentos livres e
+          alugados, e facilitar o contato com a equipe de atendimento.
+        </p>
+      </section>
+
+      <section class="section persuasion" aria-labelledby="persuasion-title">
+        <div class="section-heading compact">
+          <div>
+            <p class="eyebrow">Por que ajuda</p>
+            <h2 id="persuasion-title">Você vê o básico antes de chamar.</h2>
+          </div>
+        </div>
+        <div class="persuasion-grid">
+          <article>
+            <strong>Veja o que está livre</strong>
+            <p>Os apartamentos disponíveis aparecem separados para facilitar sua consulta.</p>
+          </article>
+          <article>
+            <strong>Evite dúvida desnecessária</strong>
+            <p>
+              Unidades disponíveis e alugadas aparecem separadas para evitar contato em apartamento
+              indisponível.
+            </p>
+          </article>
+          <article>
+            <strong>Fale direto sobre a unidade</strong>
+            <p>
+              O formulário já informa qual apartamento chamou sua atenção para a equipe retornar
+              melhor.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section location" aria-labelledby="location-title">
+        <div class="location-copy">
+          <p class="eyebrow">Localização</p>
+          <h2 id="location-title">Endereço no bairro São José.</h2>
+          <p>
+            A região tem referências úteis para o dia a dia, como mercado, academia, transporte e
+            serviços. Confira o mapa e confirme as informações com a equipe antes da visita.
+          </p>
+          <a
+            class="button primary"
+            href="https://www.google.com/maps/search/?api=1&query=R.+Eng.+Jos%C3%A9+Onofre+Marques,+106,+Juazeiro+do+Norte,+CE"
+            target="_blank"
+            rel="noopener"
+            >Ver no mapa</a
+          >
+        </div>
+
+        <div class="nearby-grid" aria-label="Referências próximas">
+          <article>
+            <div class="place-preview">
+              <iframe
+                title="Mapa da Academia Biofit no bairro São José"
+                src="https://www.google.com/maps?q=Academia+Biofit+Rua+Engenheiro+Jose+Onofre+Marques+643+Sao+Jose+Juazeiro+do+Norte+CE&output=embed"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+            <span>Academia</span>
+            <h3>Academia Biofit</h3>
+            <p>
+              Referência de academia registrada na Rua Eng. José Onofre Marques, no bairro São José.
+            </p>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Academia+Biofit+Rua+Engenheiro+Jose+Onofre+Marques+643+Sao+Jose+Juazeiro+do+Norte+CE"
+              target="_blank"
+              rel="noopener"
+              >Abrir no mapa</a
+            >
+          </article>
+          <article>
+            <div class="place-preview">
+              <iframe
+                title="Mapa do Assaí Atacadista na Avenida Padre Cícero"
+                src="https://www.google.com/maps?q=Assai+Atacadista+Avenida+Padre+Cicero+4400+Sao+Jose+Juazeiro+do+Norte+CE&output=embed"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+            <span>Mercado</span>
+            <h3>Assaí na Av. Padre Cícero</h3>
+            <p>
+              Referência de atacarejo no bairro São José, conforme informações públicas do próprio
+              Assaí.
+            </p>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Assai+Atacadista+Avenida+Padre+Cicero+4400+Sao+Jose+Juazeiro+do+Norte+CE"
+              target="_blank"
+              rel="noopener"
+              >Abrir no mapa</a
+            >
+          </article>
+          <article>
+            <div class="place-preview">
+              <iframe
+                title="Mapa da linha Centro São José em Juazeiro do Norte"
+                src="https://www.google.com/maps?q=Rua+Engenheiro+Jose+Onofre+Marques+Sao+Jose+Juazeiro+do+Norte+CE&output=embed"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+            <span>Mobilidade</span>
+            <h3>Linha Centro / São José</h3>
+            <p>
+              Há referência de linha de ônibus Centro / São José atendendo a região da Rua Eng. José
+              Onofre Marques.
+            </p>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=Rua+Engenheiro+Jose+Onofre+Marques+Sao+Jose+Juazeiro+do+Norte+CE"
+              target="_blank"
+              rel="noopener"
+              >Ver região</a
+            >
+          </article>
+          <article>
+            <div class="place-preview">
+              <iframe
+                title="Mapa do endereço do Residencial Matilde Carreiro"
+                src="https://www.google.com/maps?q=R.+Eng.+Jose+Onofre+Marques,+106,+Sao+Jose,+Juazeiro+do+Norte,+CE&output=embed"
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
+            <span>Conveniência</span>
+            <h3>Bairro São José</h3>
+            <p>
+              Endereço em área com perfil residencial e comercial, ideal para quem valoriza
+              praticidade no aluguel.
+            </p>
+            <a
+              href="https://www.google.com/maps/search/?api=1&query=R.+Eng.+Jose+Onofre+Marques,+106,+Sao+Jose,+Juazeiro+do+Norte,+CE"
+              target="_blank"
+              rel="noopener"
+              >Ver endereço</a
+            >
+          </article>
+        </div>
+      </section>
+
+      <section class="section inventory" id="imoveis" aria-labelledby="inventory-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Apartamentos</p>
+            <h2 id="inventory-title">Unidades para aluguel</h2>
+          </div>
+          <div class="filters" role="group" aria-label="Filtrar apartamentos por status">
+            <button class="filter-button active" type="button" data-filter="todos">Todos</button>
+            <button class="filter-button" type="button" data-filter="disponivel">
+              Disponíveis
+            </button>
+            <button class="filter-button" type="button" data-filter="alugado">Alugados</button>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <label class="search-field">
+            <span>Buscar</span>
+            <input id="searchInput" type="search" placeholder="Bairro, código ou característica" />
+          </label>
+          <label class="select-field">
+            <span>Ordenar</span>
+            <select id="sortSelect">
+              <option value="featured">Destaques</option>
+              <option value="priceAsc">Menor preço</option>
+              <option value="priceDesc">Maior preço</option>
+              <option value="areaDesc">Maior área</option>
+            </select>
+          </label>
+        </div>
+        <p class="availability-note">
+          Este site mostra unidades para consulta de aluguel. Não trabalhamos com venda de imóveis.
+          Valores, disponibilidade e condições de locação devem ser confirmados com a equipe antes
+          da visita.
+        </p>
+
+        <div class="property-grid" id="propertyGrid" aria-live="polite"></div>
+      </section>
+
+      <section class="section process" id="locacao" aria-label="Como funciona a locação">
+        <div class="section-heading compact">
+          <div>
+            <p class="eyebrow">Como funciona</p>
+            <h2>Como consultar e agendar.</h2>
+          </div>
+        </div>
+        <div class="steps">
+          <article>
+            <span>01</span>
+            <h3>Escolha a unidade</h3>
+            <p>Veja as informações cadastradas e escolha a unidade que deseja consultar.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Agende a visita</h3>
+            <p>Envie seu nome, WhatsApp, apartamento de interesse e melhor horário para retorno.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Confirme as condições</h3>
+            <p>
+              A equipe informa valores atualizados, disponibilidade, documentos e próximos passos.
+            </p>
+          </article>
+        </div>
+        <div class="rental-info">
+          <article>
+            <h3>Documentos comuns</h3>
+            <p>
+              RG, CPF, comprovante de renda e comprovante de residência costumam ser solicitados. A
+              lista final deve ser confirmada pela equipe.
+            </p>
+          </article>
+          <article>
+            <h3>Visita ao apartamento</h3>
+            <p>
+              O agendamento depende da disponibilidade da unidade e dos horários de atendimento
+              informados pela equipe.
+            </p>
+          </article>
+          <article>
+            <h3>Informações conferidas</h3>
+            <p>
+              Antes de tomar decisão, confirme valor, status, condições de locação e regras do
+              residencial.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section faq" id="duvidas" aria-labelledby="faq-title">
+        <div class="section-heading compact">
+          <div>
+            <p class="eyebrow">Dúvidas frequentes</p>
+            <h2 id="faq-title">Perguntas comuns antes de alugar.</h2>
+          </div>
+        </div>
+        <div class="faq-list">
+          <details>
+            <summary>Como sei se o apartamento ainda está disponível?</summary>
+            <p>
+              O site mostra o status cadastrado, mas a disponibilidade deve ser confirmada com a
+              equipe no atendimento.
+            </p>
+          </details>
+          <details>
+            <summary>Quais documentos preciso para alugar?</summary>
+            <p>
+              Normalmente são solicitados documentos pessoais, comprovante de renda e comprovante de
+              residência. A lista final é informada pela equipe.
+            </p>
+          </details>
+          <details>
+            <summary>Tem garagem?</summary>
+            <p>
+              Cada unidade pode ter uma condição diferente. Veja a informação no card do apartamento
+              e confirme antes da visita.
+            </p>
+          </details>
+          <details>
+            <summary>Aceita pet?</summary>
+            <p>
+              Essa informação precisa ser confirmada com a equipe de atendimento, pois pode depender
+              da unidade e das regras do residencial.
+            </p>
+          </details>
+          <details>
+            <summary>Como agendar uma visita?</summary>
+            <p>
+              Escolha um apartamento disponível e envie seus dados pelo formulário. A equipe retorna
+              para combinar o melhor horário.
+            </p>
+          </details>
+          <details>
+            <summary>O valor pode mudar?</summary>
+            <p>
+              Sim. Valores e condições podem ser atualizados, por isso tudo deve ser confirmado no
+              atendimento.
+            </p>
+          </details>
+        </div>
+      </section>
+
+      <section class="section contact" id="contato" aria-labelledby="contact-title">
+        <div class="contact-info">
+          <p class="eyebrow">Contato</p>
+          <h2 id="contact-title">Fale com a equipe do Residencial Matilde Carreiro</h2>
+          <p>
+            Atendimento simples para consultar disponibilidade, tirar dúvidas e combinar visita.
+          </p>
+          <ul class="contact-list">
+            <li>
+              <strong>WhatsApp</strong
+              ><span>Adicionar número oficial da equipe de atendimento</span>
+            </li>
+            <li>
+              <strong>E-mail</strong><span>Adicionar e-mail oficial da equipe de atendimento</span>
+            </li>
+            <li>
+              <strong>Endereço</strong
+              ><span>R. Eng. José Onofre Marques, 106 - São José, Juazeiro do Norte, CE</span>
+            </li>
+          </ul>
+        </div>
+
+        <form class="contact-form" id="contactForm">
+          <div class="form-headline">
+            <strong>Receba retorno sobre uma unidade</strong>
+            <span
+              >Informe seus dados e o apartamento de interesse para atendimento de locação.</span
+            >
+          </div>
+          <label>
+            Nome
+            <input type="text" name="name" autocomplete="name" required />
+          </label>
+          <label>
+            Telefone / WhatsApp
+            <input
+              type="tel"
+              name="phone"
+              autocomplete="tel"
+              placeholder="(88) 99999-9999"
+              required
+            />
+          </label>
+          <label>
+            Apartamento de interesse
+            <select name="property" id="propertySelect" required></select>
+          </label>
+          <label>
+            Melhor horário para retorno
+            <select name="bestTime" required>
+              <option value="manha">Manhã</option>
+              <option value="tarde">Tarde</option>
+              <option value="noite">Noite</option>
+            </select>
+          </label>
+          <label>
+            Mensagem opcional
+            <textarea name="message" rows="4">
+Olá, gostaria de receber mais informações e agendar uma visita.</textarea
+            >
+          </label>
+          <button class="button primary full" type="submit">Quero agendar uma visita</button>
+          <p class="form-feedback" id="formFeedback" role="status"></p>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Residencial Matilde Carreiro</p>
+      <span>Projeto web autoral para portfólio acadêmico e profissional.</span>
+    </footer>
+
+    <a
+      class="floating-whatsapp is-disabled"
+      id="floatingWhatsApp"
+      href="#contato"
+      aria-label="Falar com a equipe pelo WhatsApp"
+    >
+      <span class="wa-mark">
+        <img src="assets/whatsapp-contact.png" alt="" aria-hidden="true" />
+      </span>
+      <span>
+        <strong>Atendimento</strong>
+        <small>WhatsApp</small>
+      </span>
+    </a>
+
+    <script src="script.js?v=29"></script>
+  </body>
+</html>

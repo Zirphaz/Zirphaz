@@ -169,12 +169,20 @@ h3 {
   box-shadow: var(--shadow);
 }
 
-.avatar {
+.profile-initials {
+  display: grid;
   width: 100%;
   aspect-ratio: 1;
-  object-fit: cover;
-  border-radius: 0.5rem;
   border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  place-items: center;
+  background:
+    linear-gradient(135deg, rgba(45, 212, 191, 0.18), rgba(56, 189, 248, 0.1)),
+    rgba(255, 255, 255, 0.035);
+  color: var(--accent);
+  font-size: clamp(4rem, 12vw, 8rem);
+  font-weight: 900;
+  letter-spacing: 0;
 }
 
 .profile-panel h2 {
@@ -222,7 +230,7 @@ h3 {
 
 .metrics-strip {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
   gap: 1rem;
   padding: 0 clamp(1.25rem, 5vw, 5rem) clamp(3.4rem, 7vw, 5rem);
 }
@@ -336,6 +344,45 @@ h3 {
   color: var(--accent-strong);
 }
 
+.case-grid,
+.dual-proof {
+  display: grid;
+  gap: 1rem;
+}
+
+.case-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.case-grid article,
+.dual-proof article {
+  border: 1px solid var(--line);
+  border-radius: 0.5rem;
+  background: rgba(8, 11, 18, 0.42);
+}
+
+.case-grid article {
+  min-height: 15rem;
+  padding: 1.1rem;
+}
+
+.case-grid span {
+  display: inline-flex;
+  margin-bottom: 1.2rem;
+  color: var(--danger);
+  font-size: 1.45rem;
+  font-weight: 900;
+}
+
+.dual-proof {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 1rem;
+}
+
+.dual-proof article {
+  padding: 1.25rem;
+}
+
 .contact {
   display: flex;
   align-items: center;
@@ -344,7 +391,7 @@ h3 {
   background: linear-gradient(135deg, rgba(45, 212, 191, 0.12), rgba(249, 115, 22, 0.1));
 }
 
-.demo-callout {
+.delivery-callout {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -354,7 +401,7 @@ h3 {
   background: rgba(255, 255, 255, 0.035);
 }
 
-.demo-callout > div {
+.delivery-callout > div {
   max-width: 56rem;
 }
 
@@ -375,7 +422,9 @@ footer {
   .hero,
   .two-column,
   .skills-grid,
-  .metrics-strip {
+  .metrics-strip,
+  .case-grid,
+  .dual-proof {
     grid-template-columns: 1fr;
   }
 
@@ -388,7 +437,7 @@ footer {
   }
 
   .contact,
-  .demo-callout {
+  .delivery-callout {
     align-items: flex-start;
     flex-direction: column;
   }

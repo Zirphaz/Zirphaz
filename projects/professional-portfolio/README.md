@@ -1,25 +1,27 @@
-# Portfolio Profissional
+# Professional Portfolio
 
-Site publicado no GitHub Pages para apresentar perfil profissional, stack, projetos, curriculo e contato.
+GitHub Pages portfolio for presenting professional positioning, public projects, resume links and safe contact paths.
 
-## Objetivo
+## Objective
 
-Ter uma pagina direta para recrutadores, clientes e contatos profissionais, reunindo as principais informacoes em um unico lugar.
+Create a direct page for recruiters and professional contacts while avoiding unnecessary personal exposure.
 
-## Funcionalidades
+## Features
 
-- Apresentacao profissional.
-- Lista de competencias.
-- Projetos e experiencias.
-- Link para curriculo em PDF.
-- Contato por email, LinkedIn e GitHub.
-- Layout responsivo.
+- Professional summary.
+- Skills and technology areas.
+- Public project highlights.
+- Dedicated Advertising and Propaganda case section.
+- Dual-career positioning for programming and brand/product communication.
+- Resume links.
+- LinkedIn and GitHub contact paths.
+- Responsive layout.
+- No phone number, private address, production credentials or private client data.
 
-## Tecnologias
+## Technologies
 
 - HTML
 - CSS
-- JavaScript
 - GitHub Pages
 
 ## Links
@@ -27,7 +29,14 @@ Ter uma pagina direta para recrutadores, clientes e contatos profissionais, reun
 - [Portfolio online](https://zirphaz.github.io/Zirphaz/)
 - [Codigo da pagina](../../index.html)
 - [Estilos](../../styles.css)
+- [Residencial Matilde Carreiro case](../residencial-matilde-carreiro-site/README.md)
+
+## Security Notes
+
+- Application-specific files should stay local or ignored unless intentionally published.
+- Tokens, private `.env` files, generated caches and local databases stay out of Git.
+- Public examples use placeholders only.
 
 ## Status
 
-Publicado e em melhoria continua. Este e o projeto mais completo do repositorio, com pagina real, estilos, links e publicacao via GitHub Pages.
+Published and maintained as the main public portfolio page.
