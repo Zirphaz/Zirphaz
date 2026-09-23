@@ -1,31 +1,31 @@
-# Gestao de Apartamentos
+# Apartment Management Concept
 
-Sistema interno para organizar informacoes de apartamentos, registros, manutencoes, consultas e processos administrativos.
+A concept for an internal application that organizes apartment records, maintenance work, incidents, and administrative queries.
 
-## Objetivo
+## Goal
 
-Criar uma ferramenta simples para consultar dados rapidamente, reduzir perda de informacao e manter registros organizados.
+Provide a simple way to find operational information, reduce missing records, and keep maintenance history attached to each unit.
 
-## Funcionalidades planejadas
+## Planned scope
 
-- Cadastro de apartamentos.
-- Registro de manutencoes.
-- Historico de ocorrencias.
-- Filtros e busca por unidade.
-- Organizacao de dados em banco local.
-- Exportacao de informacoes importantes.
+- Apartment records
+- Maintenance history
+- Incident tracking
+- Search and filters by unit
+- Local database storage
+- Export of relevant records
 
-## Tecnologias relacionadas
+## Proposed stack
 
 - Python
 - SQL
 - JSON
-- CustomTkinter, em interface desktop planejada
+- CustomTkinter for a possible desktop interface
 
-## Codigo relacionado
+## Related code
 
-- [business_automation.py](../../src/python/business_automation.py)
+- [Business automation example](../../src/python/business_automation.py)
 
 ## Status
 
-Em desenvolvimento conceitual e tecnico. A base atual aproveita a estrutura de tarefas e organizacao operacional; cadastro, banco local e telas ainda sao etapas planejadas.
+Concept and early technical exploration. Data persistence, screens, and the complete domain model have not been implemented yet.

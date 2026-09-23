@@ -1,47 +1,28 @@
-# Project Catalog
+# Project catalog
 
-Central view of portfolio projects organized by relevance, delivery, and technology.
+This catalog groups the work in this repository by the engineering skill it demonstrates. Projects are intentionally small enough to review, run, and discuss in an interview.
 
-## Most Relevant for UI Programmer / Game UI Roles
+## Main case study
 
-| Project | Area | Delivery | Technologies |
-| --- | --- | --- | --- |
-| [UE5 and Unity movement systems](projects/ue5-movement-system/README.md) | Engines / Interactive Systems | Horror game projects, train and station systems, movement logic, simulation behavior, animation work, and interactive prototype documentation. | UE5, Unity, C++, Lua |
-| [React business dashboard](projects/web-dashboard/README.md) | UI / Front-end / Data | Responsive dashboard with metrics, proportional bars, low-stock alerts, project progress, and production build validation. | React, JavaScript, Vite |
-| [Discord support ticket bot](projects/discord-support-bot/README.md) | Automation / Web Services | Ticket workflow with slash commands, Discord API integration, permissions, logs, private channels, and interactive components. | Node.js, Discord.js, Docker |
-| [Security risk audit](projects/security-risk-audit/README.md) | Defensive Security | Local audit for hardcoded secrets, active debug flags, and unsafe configuration patterns. | Python, Regex, CLI |
-| [Residencial Matilde Carreiro rental website](projects/residencial-matilde-carreiro-site/README.md) | Front-end / Advertising | Apartment rental website with brand positioning, conversion copy, local service funnel, property filters, WhatsApp lead flow, and responsive implementation. | HTML, CSS, JavaScript, Vite |
-
-## Functional Projects
-
-| Project | Area | Delivery | Technologies |
-| --- | --- | --- | --- |
-| [Market automation system](projects/market-automation/README.md) | Automation / Business | CLI for products, inventory, sales, category summaries, and automated tests. | Python, SQLite, unittest |
-| [Brand campaign planner](projects/brand-campaign-planner/README.md) | Advertising / Product | Briefing, positioning, main message, content pillars, and campaign KPIs. | Python, Communication, KPIs |
-| [Media budget planner](projects/media-budget-planner/README.md) | Advertising / Media | Media plan with budget, impressions, clicks, conversions, cost per result, and export. | Python, Media, Performance |
-| [Brand positioning audit](projects/brand-positioning-audit/README.md) | Advertising / Brand | Diagnosis of clarity, differentiation, credibility, and audience fit. | Python, Brand, Strategy |
-| [Professional portfolio](projects/professional-portfolio/README.md) | Web / Career | Published page for profile, projects, resume, and contact. | HTML, CSS, GitHub Pages |
-
-## Advertising and Propaganda Portfolio
-
-| Case | What It Shows | Evidence |
+| Project | Engineering focus | Stack |
 | --- | --- | --- |
-| [Residencial Matilde Carreiro rental website](projects/residencial-matilde-carreiro-site/README.md) | Real small-business positioning, local rental communication, conversion copy, visual direction, and lead flow. | Hero promise, available/rented separation, location references, FAQ, rental process, form feedback, WhatsApp CTA. |
-| [Brand campaign planner](projects/brand-campaign-planner/README.md) | Campaign planning structure for audience, objective, message, content pillars, and KPIs. | Python CLI that turns a briefing into campaign logic. |
-| [Media budget planner](projects/media-budget-planner/README.md) | Performance media reasoning with budget, impressions, clicks, conversions, and cost per result. | Python tool with report and CSV export behavior. |
-| [Brand positioning audit](projects/brand-positioning-audit/README.md) | Brand diagnosis across clarity, differentiation, credibility, and audience fit. | Python audit utility for positioning review. |
+| [ZirphasOS](https://github.com/Zirphaz/zirphas-os) | Transactional repair-order workflow, RBAC, versioned estimates, inventory, payments, and PostgreSQL concurrency | Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker |
 
-## Complementary Projects
+## Applications and integrations
 
-| Project | Area | Scope | Technologies |
-| --- | --- | --- | --- |
-| [Apartment management system](projects/apartment-management/README.md) | Internal Systems | Technical organization for apartment records, maintenance, and operational queries. | Python, SQL, JSON |
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Business dashboard](projects/web-dashboard/README.md) | Responsive data presentation, derived metrics, stock alerts, and a production build | React, JavaScript, Vite, CSS |
+| [Discord support bot](projects/discord-support-bot/README.md) | Ticket workflow, permissions, private channels, logs, and Discord API integration | Node.js, Discord.js, Docker |
+| [Market automation](projects/market-automation/README.md) | Products, inventory, sales, category reports, persistence, and tests in a CLI | Python, SQLite, unittest |
+| [Rental website](projects/residencial-matilde-carreiro-site/README.md) | A responsive site for a real local use case, including property filters and a WhatsApp inquiry flow | HTML, CSS, JavaScript |
 
-## Fast Reading
+## Engineering exercises
 
-- Best engine/C++ signal: `projects/ue5-movement-system`.
-- Best front-end/UI signal: `projects/web-dashboard`.
-- Best external API/service integration signal: `projects/discord-support-bot`.
-- Best code quality/security signal: `projects/security-risk-audit`.
-- Best automation/data signal: `projects/market-automation`.
-- Best Advertising and Propaganda signal: `projects/residencial-matilde-carreiro-site`.
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Interactive movement systems](projects/ue5-movement-system/README.md) | Movement logic and interaction prototypes for Unreal Engine and Unity | Unreal Engine 5, Unity, C++, Lua |
+| [Apartment management concept](projects/apartment-management/README.md) | Domain organization for property records, maintenance, and operational queries | Python, SQL, JSON |
+| [Portfolio website](projects/professional-portfolio/README.md) | Static publishing, responsive presentation, and project navigation | HTML, CSS, GitHub Pages |
+
+The applications aimed at Brazilian users keep their product interface in Brazilian Portuguese. Their engineering documentation is written in English.

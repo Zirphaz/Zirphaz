@@ -1,74 +1,41 @@
-<h1 align="center">Samuel Ferreira | Desenvolvimento Full Stack</h1>
+# Samuel Ferreira
 
-<p align="center">
-  Interfaces, APIs e automações para resolver problemas do dia a dia.<br>
-  React · JavaScript · Node.js · Python · FastAPI · SQL
-</p>
+I am a Systems Analysis and Development student in Brazil, focused on back-end services, full-stack applications, and software that supports real business workflows.
 
-<p align="center">
-  <a href="https://zirphaz.github.io/Zirphaz/">Portfólio</a> ·
-  <a href="PROJECTS.md">Projetos</a> ·
-  <a href="Samuel_Ferreira_Curriculo_2026.pdf">Currículo PT-BR</a> ·
-  <a href="Samuel_Ferreira_Resume_2026.pdf">Resume EN</a> ·
-  <a href="https://www.linkedin.com/in/samuelferreira-dev/">LinkedIn</a>
-</p>
+My recent work covers API design, relational data modeling, authentication and authorization, transactional business rules, automated testing, and Windows-friendly developer tooling. I care about clear documentation and about stating what a project has actually validated.
 
-## Sobre mim
+[Portfolio](https://zirphaz.github.io/Zirphaz/) · [LinkedIn](https://www.linkedin.com/in/samuelferreira-dev/) · [Project catalog](PROJECTS.md) · [English resume](Samuel_Ferreira_Resume_2026.pdf)
 
-Sou desenvolvedor com foco em **full stack**. Construo interfaces responsivas, serviços web e automações, conectando a experiência de quem usa o sistema às regras de negócio e aos dados.
+## Selected work
 
-Meu portfólio reúne gestão de ordens de serviço, dashboards, atendimento por tickets, controle de estoque e sites comerciais. Valorizo código organizado, integrações claras, testes e atenção aos detalhes da interface.
+### [ZirphasOS — repair shop management](https://github.com/Zirphaz/zirphas-os)
 
-Também estudo Publicidade e Propaganda e tenho experiência com sistemas interativos em Unreal Engine 5 e Unity. Essas frentes ampliam minha perspectiva sobre comunicação, UX e apresentação de produtos.
+A FastAPI and PostgreSQL application that models a repair order from intake to paid delivery.
 
-## Projeto em destaque
+- Role-based access for administrators, receptionists, and technicians
+- Versioned estimates and controlled state transitions
+- Transactional inventory and payment operations
+- Customer tracking links stored as hashes
+- 68 automated tests, including PostgreSQL concurrency cases
 
-### [ZirphasOS — Smart Repair Management](https://github.com/Zirphaz/zirphas-os)
+### [Portfolio engineering projects](PROJECTS.md)
 
-Sistema para assistência técnica que conecta recepção, bancada, estoque e financeiro. O backend aplica regras ao ciclo de uma ordem de serviço, da entrada do aparelho à entrega.
+Small, focused implementations that document front-end work, service integrations, automation, and interactive systems. Each project includes its scope, limitations, and reproducible commands where applicable.
 
-- **FastAPI e PostgreSQL:** API em camadas, modelos relacionais e migrações com Alembic.
-- **JWT e RBAC:** permissões para administrador, recepção e técnico.
-- **State Pattern:** transições controladas, orçamento e aprovação pelo cliente.
-- **Estoque e financeiro:** peças vinculadas à OS, pagamentos e cálculo de margem.
-- **Validação:** 68 testes, incluindo cenários de concorrência no PostgreSQL.
+## Technical focus
 
-[Explorar o código e a documentação →](https://github.com/Zirphaz/zirphas-os#readme)
+| Area | Tools and practices |
+| --- | --- |
+| Back end | Python, FastAPI, Go, Node.js, REST APIs, JWT, RBAC |
+| Front end | React, JavaScript, TypeScript, HTML, CSS, responsive interfaces |
+| Data | PostgreSQL, SQLAlchemy, SQLite, migrations, transactions |
+| Delivery | Docker, GitHub Actions, Linux containers, Windows automation |
+| Quality | Pytest, Go tests, integration tests, concurrency tests, technical documentation |
 
-## Outros projetos
+## What I am studying
 
-| Projeto | O que demonstra | Tecnologias |
-| --- | --- | --- |
-| [Dashboard de negócios](projects/web-dashboard/README.md) | Interface responsiva com métricas, alertas de estoque e progresso de projetos. Versão funcional com dados locais. | React, JavaScript, Vite, CSS |
-| [Bot de atendimento para Discord](projects/discord-support-bot/README.md) | Tickets, permissões, logs e componentes interativos integrados à API do Discord. | Node.js, Discord.js, Docker |
-| [Automação para mercado](projects/market-automation/README.md) | CLI funcional para produtos, vendas, estoque e relatórios por categoria. | Python, SQLite, argparse |
-| [Residencial Matilde Carreiro](projects/residencial-matilde-carreiro-site/README.md) | Site de locação com filtros, contato por WhatsApp, interface responsiva e comunicação comercial. | HTML, CSS, JavaScript |
-| [Portfólio profissional](projects/professional-portfolio/README.md) | Site publicado que reúne projetos, currículos e contato. | HTML, CSS, GitHub Pages |
+I am completing a degree in **Systems Analysis and Development** and deepening my understanding of software architecture, data structures, databases, operating systems, networks, and software engineering practices. I use portfolio projects to turn those subjects into working systems that can be reviewed and tested.
 
-## Tecnologias e práticas
+## Contact
 
-- **Front-end:** React, JavaScript, HTML, CSS, layouts responsivos e fluxos de interação.
-- **Back-end e dados:** Python, FastAPI, Node.js, Java, SQL, PostgreSQL e SQLite.
-- **Integrações:** APIs, automação de tarefas, Discord.js e ferramentas de linha de comando.
-- **Qualidade:** testes automatizados, depuração, configuração por variáveis de ambiente e documentação de execução.
-
-### Amostras de código
-
-- [Automação de rotinas em Python](src/python/business_automation.py)
-- [Funções para dashboard em JavaScript](src/javascript/portfolioDashboard.js)
-- [Serviço de automação em Java](src/java/PortfolioAutomationService.java)
-
-## Experiências complementares
-
-- [Sistemas interativos em UE5 e Unity](projects/ue5-movement-system/README.md): estudos e experiência com movimento, simulação, C++, Lua e animações. A página documenta o escopo; os projetos nativos não estão neste repositório.
-- [Gestão de apartamentos](projects/apartment-management/README.md): projeto em fase conceitual para organizar registros, manutenções e consultas.
-- **Publicidade e Propaganda:** posicionamento, copywriting, planejamento de campanhas e mídia. O [site do Residencial Matilde Carreiro](projects/residencial-matilde-carreiro-site/README.md) combina essa perspectiva com desenvolvimento front-end.
-- **Outras frentes de estudo:** revisão defensiva de configurações e segredos, planejamento de campanhas, orçamento de mídia e análise de posicionamento de marca.
-
-## Contato
-
-- [Portfólio](https://zirphaz.github.io/Zirphaz/)
-- [LinkedIn](https://www.linkedin.com/in/samuelferreira-dev/)
-- [GitHub](https://github.com/Zirphaz)
-
-<sub>Full stack developer focused on web interfaces, APIs and business automation.</sub>
+The best way to reach me about software roles or collaboration is through [LinkedIn](https://www.linkedin.com/in/samuelferreira-dev/).
