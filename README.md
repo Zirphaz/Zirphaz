@@ -26,11 +26,12 @@ Small, focused implementations that document front-end work, service integration
 
 | Area | Tools and practices |
 | --- | --- |
-| Back end | Python, FastAPI, Go, Node.js, REST APIs, JWT, RBAC |
-| Front end | React, JavaScript, TypeScript, HTML, CSS, responsive interfaces |
+| Back end | Python, FastAPI, Node.js, REST APIs, JWT, RBAC |
+| Front end | React, JavaScript, HTML, CSS, responsive interfaces |
 | Data | PostgreSQL, SQLAlchemy, SQLite, migrations, transactions |
 | Delivery | Docker, GitHub Actions, Linux containers, Windows automation |
-| Quality | Pytest, Go tests, integration tests, concurrency tests, technical documentation |
+| Quality | Pytest, integration tests, concurrency tests, technical documentation |
+| Application security | Argon2 password hashing, token revocation, RBAC, ruff/bandit SAST and pip-audit in CI |
 
 ## What I am studying
 
