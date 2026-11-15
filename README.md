@@ -31,6 +31,7 @@ Small, focused implementations that document front-end work, service integration
 | Data | PostgreSQL, SQLAlchemy, SQLite, migrations, transactions |
 | Delivery | Docker, GitHub Actions, Linux containers, Windows automation |
 | Quality | Pytest, Go tests, integration tests, concurrency tests, technical documentation |
+| Application security | Argon2 password hashing, token revocation, RBAC, ruff/bandit SAST and pip-audit in CI |
 
 ## What I am studying
 

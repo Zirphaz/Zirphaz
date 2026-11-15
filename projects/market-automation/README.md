@@ -24,7 +24,6 @@ Reduzir tarefas repetitivas e centralizar informacoes importantes para facilitar
 ## Codigo relacionado
 
 - [app.py](app.py)
-- [automation_report.py](../../examples/python/automation_report.py)
 
 ## Como rodar
 
