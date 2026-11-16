@@ -13,7 +13,7 @@
     "node": ">=20 <25"
   },
   "dependencies": {
-    "discord.js": "^14.19.3",
+    "discord.js": "^14.28.1",
     "dotenv": "^16.4.7"
   }
 }
